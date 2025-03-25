@@ -1,0 +1,1017 @@
+bcp_number,rfc_number,title,status,format,file_path,downloaded
+,9743,Specifying New Congestion Control Algorithms,Best Current Practice,html,rfcs\html\rfc9743.html,Yes
+,9743,Specifying New Congestion Control Algorithms,Best Current Practice,txt,rfcs\txt\rfc9743.txt,Yes
+,9743,Specifying New Congestion Control Algorithms,Best Current Practice,pdf,rfcs\pdf\rfc9743.pdf,Yes
+,9743,Specifying New Congestion Control Algorithms,Best Current Practice,xml,rfcs\xml\rfc9743.xml,Yes
+,9712,IETF Meeting Venue Requirements Review,Best Current Practice,html,rfcs\html\rfc9712.html,Yes
+,9712,IETF Meeting Venue Requirements Review,Best Current Practice,txt,rfcs\txt\rfc9712.txt,Yes
+,9712,IETF Meeting Venue Requirements Review,Best Current Practice,pdf,rfcs\pdf\rfc9712.pdf,Yes
+,9712,IETF Meeting Venue Requirements Review,Best Current Practice,xml,rfcs\xml\rfc9712.xml,Yes
+,9700,Best Current Practice for OAuth 2.0 Security,Best Current Practice,html,rfcs\html\rfc9700.html,Yes
+,9700,Best Current Practice for OAuth 2.0 Security,Best Current Practice,txt,rfcs\txt\rfc9700.txt,Yes
+,9700,Best Current Practice for OAuth 2.0 Security,Best Current Practice,pdf,rfcs\pdf\rfc9700.pdf,Yes
+,9700,Best Current Practice for OAuth 2.0 Security,Best Current Practice,xml,rfcs\xml\rfc9700.xml,Yes
+,9694,Guidelines for the Definition of New Top-Level Media Types,Best Current Practice,html,rfcs\html\rfc9694.html,Yes
+,9694,Guidelines for the Definition of New Top-Level Media Types,Best Current Practice,txt,rfcs\txt\rfc9694.txt,Yes
+,9694,Guidelines for the Definition of New Top-Level Media Types,Best Current Practice,pdf,rfcs\pdf\rfc9694.pdf,Yes
+,9694,Guidelines for the Definition of New Top-Level Media Types,Best Current Practice,xml,rfcs\xml\rfc9694.xml,Yes
+,9609,Initializing a DNS Resolver with Priming Queries,Best Current Practice,html,rfcs\html\rfc9609.html,Yes
+,9609,Initializing a DNS Resolver with Priming Queries,Best Current Practice,txt,rfcs\txt\rfc9609.txt,Yes
+,9609,Initializing a DNS Resolver with Priming Queries,Best Current Practice,pdf,rfcs\pdf\rfc9609.pdf,Yes
+,9609,Initializing a DNS Resolver with Priming Queries,Best Current Practice,xml,rfcs\xml\rfc9609.xml,Yes
+,9599,Guidelines for Adding Congestion Notification to Protocols that Encapsulate IP,Best Current Practice,html,rfcs\html\rfc9599.html,Yes
+,9599,Guidelines for Adding Congestion Notification to Protocols that Encapsulate IP,Best Current Practice,txt,rfcs\txt\rfc9599.txt,Yes
+,9599,Guidelines for Adding Congestion Notification to Protocols that Encapsulate IP,Best Current Practice,pdf,rfcs\pdf\rfc9599.pdf,Yes
+,9599,Guidelines for Adding Congestion Notification to Protocols that Encapsulate IP,Best Current Practice,xml,rfcs\xml\rfc9599.xml,Yes
+,9542,IANA Considerations and IETF Protocol and Documentation Usage for IEEE 802 Parameters,Best Current Practice,html,rfcs\html\rfc9542.html,Yes
+,9542,IANA Considerations and IETF Protocol and Documentation Usage for IEEE 802 Parameters,Best Current Practice,txt,rfcs\txt\rfc9542.txt,Yes
+,9542,IANA Considerations and IETF Protocol and Documentation Usage for IEEE 802 Parameters,Best Current Practice,pdf,rfcs\pdf\rfc9542.pdf,Yes
+,9542,IANA Considerations and IETF Protocol and Documentation Usage for IEEE 802 Parameters,Best Current Practice,xml,rfcs\xml\rfc9542.xml,Yes
+,9501,Open Participation Principle regarding Remote Registration Fee,Best Current Practice,html,rfcs\html\rfc9501.html,Yes
+,9501,Open Participation Principle regarding Remote Registration Fee,Best Current Practice,txt,rfcs\txt\rfc9501.txt,Yes
+,9501,Open Participation Principle regarding Remote Registration Fee,Best Current Practice,pdf,rfcs\pdf\rfc9501.pdf,Yes
+,9501,Open Participation Principle regarding Remote Registration Fee,Best Current Practice,xml,rfcs\xml\rfc9501.xml,Yes
+,9499,DNS Terminology,Best Current Practice,html,rfcs\html\rfc9499.html,Yes
+,9499,DNS Terminology,Best Current Practice,txt,rfcs\txt\rfc9499.txt,Yes
+,9499,DNS Terminology,Best Current Practice,pdf,rfcs\pdf\rfc9499.pdf,Yes
+,9499,DNS Terminology,Best Current Practice,xml,rfcs\xml\rfc9499.xml,Yes
+,9455,Avoiding Route Origin Authorizations (ROAs) Containing Multiple IP Prefixes,Best Current Practice,html,rfcs\html\rfc9455.html,Yes
+,9455,Avoiding Route Origin Authorizations (ROAs) Containing Multiple IP Prefixes,Best Current Practice,txt,rfcs\txt\rfc9455.txt,Yes
+,9455,Avoiding Route Origin Authorizations (ROAs) Containing Multiple IP Prefixes,Best Current Practice,pdf,rfcs\pdf\rfc9455.pdf,Yes
+,9455,Avoiding Route Origin Authorizations (ROAs) Containing Multiple IP Prefixes,Best Current Practice,xml,rfcs\xml\rfc9455.xml,Yes
+,9416,Security Considerations for Transient Numeric Identifiers Employed in Network Protocols,Best Current Practice,html,rfcs\html\rfc9416.html,Yes
+,9416,Security Considerations for Transient Numeric Identifiers Employed in Network Protocols,Best Current Practice,txt,rfcs\txt\rfc9416.txt,Yes
+,9416,Security Considerations for Transient Numeric Identifiers Employed in Network Protocols,Best Current Practice,pdf,rfcs\pdf\rfc9416.pdf,Yes
+,9416,Security Considerations for Transient Numeric Identifiers Employed in Network Protocols,Best Current Practice,xml,rfcs\xml\rfc9416.xml,Yes
+,9389,Nominating Committee Eligibility,Best Current Practice,html,rfcs\html\rfc9389.html,Yes
+,9389,Nominating Committee Eligibility,Best Current Practice,txt,rfcs\txt\rfc9389.txt,Yes
+,9389,Nominating Committee Eligibility,Best Current Practice,pdf,rfcs\pdf\rfc9389.pdf,Yes
+,9389,Nominating Committee Eligibility,Best Current Practice,xml,rfcs\xml\rfc9389.xml,Yes
+,9364,DNS Security Extensions (DNSSEC),Best Current Practice,html,rfcs\html\rfc9364.html,Yes
+,9364,DNS Security Extensions (DNSSEC),Best Current Practice,txt,rfcs\txt\rfc9364.txt,Yes
+,9364,DNS Security Extensions (DNSSEC),Best Current Practice,pdf,rfcs\pdf\rfc9364.pdf,Yes
+,9364,DNS Security Extensions (DNSSEC),Best Current Practice,xml,rfcs\xml\rfc9364.xml,Yes
+,9325,Recommendations for Secure Use of Transport Layer Security (TLS) and Datagram Transport Layer Security (DTLS),Best Current Practice,html,rfcs\html\rfc9325.html,Yes
+,9325,Recommendations for Secure Use of Transport Layer Security (TLS) and Datagram Transport Layer Security (DTLS),Best Current Practice,txt,rfcs\txt\rfc9325.txt,Yes
+,9325,Recommendations for Secure Use of Transport Layer Security (TLS) and Datagram Transport Layer Security (DTLS),Best Current Practice,pdf,rfcs\pdf\rfc9325.pdf,Yes
+,9325,Recommendations for Secure Use of Transport Layer Security (TLS) and Datagram Transport Layer Security (DTLS),Best Current Practice,xml,rfcs\xml\rfc9325.xml,Yes
+,9319,The Use of maxLength in the Resource Public Key Infrastructure (RPKI),Best Current Practice,html,rfcs\html\rfc9319.html,Yes
+,9319,The Use of maxLength in the Resource Public Key Infrastructure (RPKI),Best Current Practice,txt,rfcs\txt\rfc9319.txt,Yes
+,9319,The Use of maxLength in the Resource Public Key Infrastructure (RPKI),Best Current Practice,pdf,rfcs\pdf\rfc9319.pdf,Yes
+,9319,The Use of maxLength in the Resource Public Key Infrastructure (RPKI),Best Current Practice,xml,rfcs\xml\rfc9319.xml,Yes
+,9283,IAB Charter Update for RFC Editor Model,Best Current Practice,html,rfcs\html\rfc9283.html,Yes
+,9283,IAB Charter Update for RFC Editor Model,Best Current Practice,txt,rfcs\txt\rfc9283.txt,Yes
+,9283,IAB Charter Update for RFC Editor Model,Best Current Practice,pdf,rfcs\pdf\rfc9283.pdf,Yes
+,9283,IAB Charter Update for RFC Editor Model,Best Current Practice,xml,rfcs\xml\rfc9283.xml,Yes
+,9282,Responsibility Change for the RFC Series,Best Current Practice,html,rfcs\html\rfc9282.html,Yes
+,9282,Responsibility Change for the RFC Series,Best Current Practice,txt,rfcs\txt\rfc9282.txt,Yes
+,9282,Responsibility Change for the RFC Series,Best Current Practice,pdf,rfcs\pdf\rfc9282.pdf,Yes
+,9282,Responsibility Change for the RFC Series,Best Current Practice,xml,rfcs\xml\rfc9282.xml,Yes
+,9281,Entities Involved in the IETF Standards Process,Best Current Practice,html,rfcs\html\rfc9281.html,Yes
+,9281,Entities Involved in the IETF Standards Process,Best Current Practice,txt,rfcs\txt\rfc9281.txt,Yes
+,9281,Entities Involved in the IETF Standards Process,Best Current Practice,pdf,rfcs\pdf\rfc9281.pdf,Yes
+,9281,Entities Involved in the IETF Standards Process,Best Current Practice,xml,rfcs\xml\rfc9281.xml,Yes
+,9276,Guidance for NSEC3 Parameter Settings,Best Current Practice,html,rfcs\html\rfc9276.html,Yes
+,9276,Guidance for NSEC3 Parameter Settings,Best Current Practice,txt,rfcs\txt\rfc9276.txt,Yes
+,9276,Guidance for NSEC3 Parameter Settings,Best Current Practice,pdf,rfcs\pdf\rfc9276.pdf,Yes
+,9276,Guidance for NSEC3 Parameter Settings,Best Current Practice,xml,rfcs\xml\rfc9276.xml,Yes
+,9245,IETF Discussion List Charter,Best Current Practice,html,rfcs\html\rfc9245.html,Yes
+,9245,IETF Discussion List Charter,Best Current Practice,txt,rfcs\txt\rfc9245.txt,Yes
+,9245,IETF Discussion List Charter,Best Current Practice,pdf,rfcs\pdf\rfc9245.pdf,Yes
+,9245,IETF Discussion List Charter,Best Current Practice,xml,rfcs\xml\rfc9245.xml,Yes
+,9210,DNS Transport over TCP - Operational Requirements,Best Current Practice,html,rfcs\html\rfc9210.html,Yes
+,9210,DNS Transport over TCP - Operational Requirements,Best Current Practice,txt,rfcs\txt\rfc9210.txt,Yes
+,9210,DNS Transport over TCP - Operational Requirements,Best Current Practice,pdf,rfcs\pdf\rfc9210.pdf,Yes
+,9210,DNS Transport over TCP - Operational Requirements,Best Current Practice,xml,rfcs\xml\rfc9210.xml,Yes
+,9205,Building Protocols with HTTP,Best Current Practice,html,rfcs\html\rfc9205.html,Yes
+,9205,Building Protocols with HTTP,Best Current Practice,txt,rfcs\txt\rfc9205.txt,Yes
+,9205,Building Protocols with HTTP,Best Current Practice,pdf,rfcs\pdf\rfc9205.pdf,Yes
+,9205,Building Protocols with HTTP,Best Current Practice,xml,rfcs\xml\rfc9205.xml,Yes
+,9137,Considerations for Cancellation of IETF Meetings,Best Current Practice,html,rfcs\html\rfc9137.html,Yes
+,9137,Considerations for Cancellation of IETF Meetings,Best Current Practice,txt,rfcs\txt\rfc9137.txt,Yes
+,9137,Considerations for Cancellation of IETF Meetings,Best Current Practice,pdf,rfcs\pdf\rfc9137.pdf,Yes
+,9137,Considerations for Cancellation of IETF Meetings,Best Current Practice,xml,rfcs\xml\rfc9137.xml,Yes
+,9096,Improving the Reaction of Customer Edge Routers to IPv6 Renumbering Events,Best Current Practice,html,rfcs\html\rfc9096.html,Yes
+,9096,Improving the Reaction of Customer Edge Routers to IPv6 Renumbering Events,Best Current Practice,txt,rfcs\txt\rfc9096.txt,Yes
+,9096,Improving the Reaction of Customer Edge Routers to IPv6 Renumbering Events,Best Current Practice,pdf,rfcs\pdf\rfc9096.pdf,Yes
+,9096,Improving the Reaction of Customer Edge Routers to IPv6 Renumbering Events,Best Current Practice,xml,rfcs\xml\rfc9096.xml,Yes
+,8996,Deprecating TLS 1.0 and TLS 1.1,Best Current Practice,html,rfcs\html\rfc8996.html,Yes
+,8996,Deprecating TLS 1.0 and TLS 1.1,Best Current Practice,txt,rfcs\txt\rfc8996.txt,Yes
+,8996,Deprecating TLS 1.0 and TLS 1.1,Best Current Practice,pdf,rfcs\pdf\rfc8996.pdf,Yes
+,8996,Deprecating TLS 1.0 and TLS 1.1,Best Current Practice,xml,rfcs\xml\rfc8996.xml,Yes
+,8961,Requirements for Time-Based Loss Detection,Best Current Practice,html,rfcs\html\rfc8961.html,Yes
+,8961,Requirements for Time-Based Loss Detection,Best Current Practice,txt,rfcs\txt\rfc8961.txt,Yes
+,8961,Requirements for Time-Based Loss Detection,Best Current Practice,pdf,rfcs\pdf\rfc8961.pdf,Yes
+,8961,Requirements for Time-Based Loss Detection,Best Current Practice,xml,rfcs\xml\rfc8961.xml,Yes
+,8958,Updated Registration Rules for URI.ARPA,Best Current Practice,html,rfcs\html\rfc8958.html,Yes
+,8958,Updated Registration Rules for URI.ARPA,Best Current Practice,txt,rfcs\txt\rfc8958.txt,Yes
+,8958,Updated Registration Rules for URI.ARPA,Best Current Practice,pdf,rfcs\pdf\rfc8958.pdf,Yes
+,8958,Updated Registration Rules for URI.ARPA,Best Current Practice,xml,rfcs\xml\rfc8958.xml,Yes
+,8932,Recommendations for DNS Privacy Service Operators,Best Current Practice,html,rfcs\html\rfc8932.html,Yes
+,8932,Recommendations for DNS Privacy Service Operators,Best Current Practice,txt,rfcs\txt\rfc8932.txt,Yes
+,8932,Recommendations for DNS Privacy Service Operators,Best Current Practice,pdf,rfcs\pdf\rfc8932.pdf,Yes
+,8932,Recommendations for DNS Privacy Service Operators,Best Current Practice,xml,rfcs\xml\rfc8932.xml,Yes
+,8906,A Common Operational Problem in DNS Servers: Failure to Communicate,Best Current Practice,html,rfcs\html\rfc8906.html,Yes
+,8906,A Common Operational Problem in DNS Servers: Failure to Communicate,Best Current Practice,txt,rfcs\txt\rfc8906.txt,Yes
+,8906,A Common Operational Problem in DNS Servers: Failure to Communicate,Best Current Practice,pdf,rfcs\pdf\rfc8906.pdf,Yes
+,8906,A Common Operational Problem in DNS Servers: Failure to Communicate,Best Current Practice,xml,rfcs\xml\rfc8906.xml,Yes
+,8900,IP Fragmentation Considered Fragile,Best Current Practice,html,rfcs\html\rfc8900.html,Yes
+,8900,IP Fragmentation Considered Fragile,Best Current Practice,txt,rfcs\txt\rfc8900.txt,Yes
+,8900,IP Fragmentation Considered Fragile,Best Current Practice,pdf,rfcs\pdf\rfc8900.pdf,Yes
+,8900,IP Fragmentation Considered Fragile,Best Current Practice,xml,rfcs\xml\rfc8900.xml,Yes
+,8862,Best Practices for Securing RTP Media Signaled with SIP,Best Current Practice,html,rfcs\html\rfc8862.html,Yes
+,8862,Best Practices for Securing RTP Media Signaled with SIP,Best Current Practice,txt,rfcs\txt\rfc8862.txt,Yes
+,8862,Best Practices for Securing RTP Media Signaled with SIP,Best Current Practice,pdf,rfcs\pdf\rfc8862.pdf,Yes
+,8862,Best Practices for Securing RTP Media Signaled with SIP,Best Current Practice,xml,rfcs\xml\rfc8862.xml,Yes
+,8820,URI Design and Ownership,Best Current Practice,html,rfcs\html\rfc8820.html,Yes
+,8820,URI Design and Ownership,Best Current Practice,txt,rfcs\txt\rfc8820.txt,Yes
+,8820,URI Design and Ownership,Best Current Practice,pdf,rfcs\pdf\rfc8820.pdf,Yes
+,8820,URI Design and Ownership,Best Current Practice,xml,rfcs\xml\rfc8820.xml,Yes
+,8815,Deprecating Any-Source Multicast (ASM) for Interdomain Multicast,Best Current Practice,html,rfcs\html\rfc8815.html,Yes
+,8815,Deprecating Any-Source Multicast (ASM) for Interdomain Multicast,Best Current Practice,txt,rfcs\txt\rfc8815.txt,Yes
+,8815,Deprecating Any-Source Multicast (ASM) for Interdomain Multicast,Best Current Practice,pdf,rfcs\pdf\rfc8815.pdf,Yes
+,8815,Deprecating Any-Source Multicast (ASM) for Interdomain Multicast,Best Current Practice,xml,rfcs\xml\rfc8815.xml,Yes
+,8789,IETF Stream Documents Require IETF Rough Consensus,Best Current Practice,html,rfcs\html\rfc8789.html,Yes
+,8789,IETF Stream Documents Require IETF Rough Consensus,Best Current Practice,txt,rfcs\txt\rfc8789.txt,Yes
+,8789,IETF Stream Documents Require IETF Rough Consensus,Best Current Practice,pdf,rfcs\pdf\rfc8789.pdf,Yes
+,8789,IETF Stream Documents Require IETF Rough Consensus,Best Current Practice,xml,rfcs\xml\rfc8789.xml,Yes
+,8788,Eligibility for the 2020-2021 Nominating Committee,Best Current Practice,html,rfcs\html\rfc8788.html,Yes
+,8788,Eligibility for the 2020-2021 Nominating Committee,Best Current Practice,txt,rfcs\txt\rfc8788.txt,Yes
+,8788,Eligibility for the 2020-2021 Nominating Committee,Best Current Practice,pdf,rfcs\pdf\rfc8788.pdf,Yes
+,8788,Eligibility for the 2020-2021 Nominating Committee,Best Current Practice,xml,rfcs\xml\rfc8788.xml,Yes
+,8758,Deprecating RC4 in Secure Shell (SSH),Best Current Practice,html,rfcs\html\rfc8758.html,Yes
+,8758,Deprecating RC4 in Secure Shell (SSH),Best Current Practice,txt,rfcs\txt\rfc8758.txt,Yes
+,8758,Deprecating RC4 in Secure Shell (SSH),Best Current Practice,pdf,rfcs\pdf\rfc8758.pdf,Yes
+,8758,Deprecating RC4 in Secure Shell (SSH),Best Current Practice,xml,rfcs\xml\rfc8758.xml,Yes
+,8725,JSON Web Token Best Current Practices,Best Current Practice,html,rfcs\html\rfc8725.html,Yes
+,8725,JSON Web Token Best Current Practices,Best Current Practice,txt,rfcs\txt\rfc8725.txt,Yes
+,8725,JSON Web Token Best Current Practices,Best Current Practice,pdf,rfcs\pdf\rfc8725.pdf,Yes
+,8725,JSON Web Token Best Current Practices,Best Current Practice,xml,rfcs\xml\rfc8725.xml,Yes
+,8719,High-Level Guidance for the Meeting Policy of the IETF,Best Current Practice,html,rfcs\html\rfc8719.html,Yes
+,8719,High-Level Guidance for the Meeting Policy of the IETF,Best Current Practice,txt,rfcs\txt\rfc8719.txt,Yes
+,8719,High-Level Guidance for the Meeting Policy of the IETF,Best Current Practice,pdf,rfcs\pdf\rfc8719.pdf,Yes
+,8719,High-Level Guidance for the Meeting Policy of the IETF,Best Current Practice,xml,rfcs\xml\rfc8719.xml,Yes
+,8718,IETF Plenary Meeting Venue Selection Process,Best Current Practice,html,rfcs\html\rfc8718.html,Yes
+,8718,IETF Plenary Meeting Venue Selection Process,Best Current Practice,txt,rfcs\txt\rfc8718.txt,Yes
+,8718,IETF Plenary Meeting Venue Selection Process,Best Current Practice,pdf,rfcs\pdf\rfc8718.pdf,Yes
+,8718,IETF Plenary Meeting Venue Selection Process,Best Current Practice,xml,rfcs\xml\rfc8718.xml,Yes
+,8717,IETF Administrative Support Activity 2.0: Consolidated Updates to IETF Administrative Terminology,Best Current Practice,html,rfcs\html\rfc8717.html,Yes
+,8717,IETF Administrative Support Activity 2.0: Consolidated Updates to IETF Administrative Terminology,Best Current Practice,txt,rfcs\txt\rfc8717.txt,Yes
+,8717,IETF Administrative Support Activity 2.0: Consolidated Updates to IETF Administrative Terminology,Best Current Practice,pdf,rfcs\pdf\rfc8717.pdf,Yes
+,8717,IETF Administrative Support Activity 2.0: Consolidated Updates to IETF Administrative Terminology,Best Current Practice,xml,rfcs\xml\rfc8717.xml,Yes
+,8716,Update to the IETF Anti-Harassment Procedures for the Replacement of the IETF Administrative Oversight Committee (IAOC) with the IETF Administration LLC,Best Current Practice,html,rfcs\html\rfc8716.html,Yes
+,8716,Update to the IETF Anti-Harassment Procedures for the Replacement of the IETF Administrative Oversight Committee (IAOC) with the IETF Administration LLC,Best Current Practice,txt,rfcs\txt\rfc8716.txt,Yes
+,8716,Update to the IETF Anti-Harassment Procedures for the Replacement of the IETF Administrative Oversight Committee (IAOC) with the IETF Administration LLC,Best Current Practice,pdf,rfcs\pdf\rfc8716.pdf,Yes
+,8716,Update to the IETF Anti-Harassment Procedures for the Replacement of the IETF Administrative Oversight Committee (IAOC) with the IETF Administration LLC,Best Current Practice,xml,rfcs\xml\rfc8716.xml,Yes
+,8714,Update to the Process for Selection of Trustees for the IETF Trust,Best Current Practice,html,rfcs\html\rfc8714.html,Yes
+,8714,Update to the Process for Selection of Trustees for the IETF Trust,Best Current Practice,txt,rfcs\txt\rfc8714.txt,Yes
+,8714,Update to the Process for Selection of Trustees for the IETF Trust,Best Current Practice,pdf,rfcs\pdf\rfc8714.pdf,Yes
+,8714,Update to the Process for Selection of Trustees for the IETF Trust,Best Current Practice,xml,rfcs\xml\rfc8714.xml,Yes
+,8713,"IAB, IESG, IETF Trust, and IETF LLC Selection, Confirmation, and Recall Process: Operation of the IETF Nominating and Recall Committees",Best Current Practice,html,rfcs\html\rfc8713.html,Yes
+,8713,"IAB, IESG, IETF Trust, and IETF LLC Selection, Confirmation, and Recall Process: Operation of the IETF Nominating and Recall Committees",Best Current Practice,txt,rfcs\txt\rfc8713.txt,Yes
+,8713,"IAB, IESG, IETF Trust, and IETF LLC Selection, Confirmation, and Recall Process: Operation of the IETF Nominating and Recall Committees",Best Current Practice,pdf,rfcs\pdf\rfc8713.pdf,Yes
+,8713,"IAB, IESG, IETF Trust, and IETF LLC Selection, Confirmation, and Recall Process: Operation of the IETF Nominating and Recall Committees",Best Current Practice,xml,rfcs\xml\rfc8713.xml,Yes
+,8711,"Structure of the IETF Administrative Support Activity, Version 2.0",Best Current Practice,html,rfcs\html\rfc8711.html,Yes
+,8711,"Structure of the IETF Administrative Support Activity, Version 2.0",Best Current Practice,txt,rfcs\txt\rfc8711.txt,Yes
+,8711,"Structure of the IETF Administrative Support Activity, Version 2.0",Best Current Practice,pdf,rfcs\pdf\rfc8711.pdf,Yes
+,8711,"Structure of the IETF Administrative Support Activity, Version 2.0",Best Current Practice,xml,rfcs\xml\rfc8711.xml,Yes
+,8704,Enhanced Feasible-Path Unicast Reverse Path Forwarding,Best Current Practice,html,rfcs\html\rfc8704.html,Yes
+,8704,Enhanced Feasible-Path Unicast Reverse Path Forwarding,Best Current Practice,txt,rfcs\txt\rfc8704.txt,Yes
+,8704,Enhanced Feasible-Path Unicast Reverse Path Forwarding,Best Current Practice,pdf,rfcs\pdf\rfc8704.pdf,Yes
+,8704,Enhanced Feasible-Path Unicast Reverse Path Forwarding,Best Current Practice,xml,rfcs\xml\rfc8704.xml,Yes
+,8634,BGPsec Router Certificate Rollover,Best Current Practice,txt,rfcs\txt\rfc8634.txt,Yes
+,8634,BGPsec Router Certificate Rollover,Best Current Practice,pdf,rfcs\pdf\rfc8634.pdf,Yes
+,8634,BGPsec Router Certificate Rollover,Best Current Practice,html,rfcs\html\rfc8634.html,Yes
+,8633,Network Time Protocol Best Current Practices,Best Current Practice,txt,rfcs\txt\rfc8633.txt,Yes
+,8633,Network Time Protocol Best Current Practices,Best Current Practice,pdf,rfcs\pdf\rfc8633.pdf,Yes
+,8633,Network Time Protocol Best Current Practices,Best Current Practice,html,rfcs\html\rfc8633.html,Yes
+,8553,DNS Attrleaf Changes: Fixing Specifications That Use Underscored Node Names,Best Current Practice,txt,rfcs\txt\rfc8553.txt,Yes
+,8553,DNS Attrleaf Changes: Fixing Specifications That Use Underscored Node Names,Best Current Practice,pdf,rfcs\pdf\rfc8553.pdf,Yes
+,8553,DNS Attrleaf Changes: Fixing Specifications That Use Underscored Node Names,Best Current Practice,html,rfcs\html\rfc8553.html,Yes
+,8552,"Scoped Interpretation of DNS Resource Records through ""Underscored"" Naming of Attribute Leaves",Best Current Practice,txt,rfcs\txt\rfc8552.txt,Yes
+,8552,"Scoped Interpretation of DNS Resource Records through ""Underscored"" Naming of Attribute Leaves",Best Current Practice,pdf,rfcs\pdf\rfc8552.pdf,Yes
+,8552,"Scoped Interpretation of DNS Resource Records through ""Underscored"" Naming of Attribute Leaves",Best Current Practice,html,rfcs\html\rfc8552.html,Yes
+,8521,Registration Data Access Protocol (RDAP) Object Tagging,Best Current Practice,txt,rfcs\txt\rfc8521.txt,Yes
+,8521,Registration Data Access Protocol (RDAP) Object Tagging,Best Current Practice,pdf,rfcs\pdf\rfc8521.pdf,Yes
+,8521,Registration Data Access Protocol (RDAP) Object Tagging,Best Current Practice,html,rfcs\html\rfc8521.html,Yes
+,8504,IPv6 Node Requirements,Best Current Practice,txt,rfcs\txt\rfc8504.txt,Yes
+,8504,IPv6 Node Requirements,Best Current Practice,pdf,rfcs\pdf\rfc8504.pdf,Yes
+,8504,IPv6 Node Requirements,Best Current Practice,html,rfcs\html\rfc8504.html,Yes
+,8499,DNS Terminology,Best Current Practice,txt,rfcs\txt\rfc8499.txt,Yes
+,8499,DNS Terminology,Best Current Practice,pdf,rfcs\pdf\rfc8499.pdf,Yes
+,8499,DNS Terminology,Best Current Practice,html,rfcs\html\rfc8499.html,Yes
+,8429,Deprecate Triple-DES (3DES) and RC4 in Kerberos,Best Current Practice,txt,rfcs\txt\rfc8429.txt,Yes
+,8429,Deprecate Triple-DES (3DES) and RC4 in Kerberos,Best Current Practice,pdf,rfcs\pdf\rfc8429.pdf,Yes
+,8429,Deprecate Triple-DES (3DES) and RC4 in Kerberos,Best Current Practice,html,rfcs\html\rfc8429.html,Yes
+,8421,Guidelines for Multihomed and IPv4/IPv6 Dual-Stack Interactive Connectivity Establishment (ICE),Best Current Practice,txt,rfcs\txt\rfc8421.txt,Yes
+,8421,Guidelines for Multihomed and IPv4/IPv6 Dual-Stack Interactive Connectivity Establishment (ICE),Best Current Practice,pdf,rfcs\pdf\rfc8421.pdf,Yes
+,8421,Guidelines for Multihomed and IPv4/IPv6 Dual-Stack Interactive Connectivity Establishment (ICE),Best Current Practice,html,rfcs\html\rfc8421.html,Yes
+,8407,Guidelines for Authors and Reviewers of Documents Containing YANG Data Models,Best Current Practice,txt,rfcs\txt\rfc8407.txt,Yes
+,8407,Guidelines for Authors and Reviewers of Documents Containing YANG Data Models,Best Current Practice,pdf,rfcs\pdf\rfc8407.pdf,Yes
+,8407,Guidelines for Authors and Reviewers of Documents Containing YANG Data Models,Best Current Practice,html,rfcs\html\rfc8407.html,Yes
+,8340,YANG Tree Diagrams,Best Current Practice,txt,rfcs\txt\rfc8340.txt,Yes
+,8340,YANG Tree Diagrams,Best Current Practice,pdf,rfcs\pdf\rfc8340.pdf,Yes
+,8340,YANG Tree Diagrams,Best Current Practice,html,rfcs\html\rfc8340.html,Yes
+,8327,Mitigating the Negative Impact of Maintenance through BGP Session Culling,Best Current Practice,txt,rfcs\txt\rfc8327.txt,Yes
+,8327,Mitigating the Negative Impact of Maintenance through BGP Session Culling,Best Current Practice,pdf,rfcs\pdf\rfc8327.pdf,Yes
+,8327,Mitigating the Negative Impact of Maintenance through BGP Session Culling,Best Current Practice,html,rfcs\html\rfc8327.html,Yes
+,8318,"IAB, IESG, and IAOC Selection, Confirmation, and Recall Process: IAOC Advisor for the Nominating Committee",Best Current Practice,txt,rfcs\txt\rfc8318.txt,Yes
+,8318,"IAB, IESG, and IAOC Selection, Confirmation, and Recall Process: IAOC Advisor for the Nominating Committee",Best Current Practice,pdf,rfcs\pdf\rfc8318.pdf,Yes
+,8318,"IAB, IESG, and IAOC Selection, Confirmation, and Recall Process: IAOC Advisor for the Nominating Committee",Best Current Practice,html,rfcs\html\rfc8318.html,Yes
+,8313,Use of Multicast across Inter-domain Peering Points,Best Current Practice,txt,rfcs\txt\rfc8313.txt,Yes
+,8313,Use of Multicast across Inter-domain Peering Points,Best Current Practice,pdf,rfcs\pdf\rfc8313.pdf,Yes
+,8313,Use of Multicast across Inter-domain Peering Points,Best Current Practice,html,rfcs\html\rfc8313.html,Yes
+,8252,OAuth 2.0 for Native Apps,Best Current Practice,txt,rfcs\txt\rfc8252.txt,Yes
+,8252,OAuth 2.0 for Native Apps,Best Current Practice,pdf,rfcs\pdf\rfc8252.pdf,Yes
+,8252,OAuth 2.0 for Native Apps,Best Current Practice,html,rfcs\html\rfc8252.html,Yes
+,8207,BGPsec Operational Considerations,Best Current Practice,txt,rfcs\txt\rfc8207.txt,Yes
+,8207,BGPsec Operational Considerations,Best Current Practice,pdf,rfcs\pdf\rfc8207.pdf,Yes
+,8207,BGPsec Operational Considerations,Best Current Practice,html,rfcs\html\rfc8207.html,Yes
+,8190,Updates to the Special-Purpose IP Address Registries,Best Current Practice,txt,rfcs\txt\rfc8190.txt,Yes
+,8190,Updates to the Special-Purpose IP Address Registries,Best Current Practice,pdf,rfcs\pdf\rfc8190.pdf,Yes
+,8190,Updates to the Special-Purpose IP Address Registries,Best Current Practice,html,rfcs\html\rfc8190.html,Yes
+,8180,Minimal IPv6 over the TSCH Mode of IEEE 802.15.4e (6TiSCH) Configuration,Best Current Practice,txt,rfcs\txt\rfc8180.txt,Yes
+,8180,Minimal IPv6 over the TSCH Mode of IEEE 802.15.4e (6TiSCH) Configuration,Best Current Practice,pdf,rfcs\pdf\rfc8180.pdf,Yes
+,8180,Minimal IPv6 over the TSCH Mode of IEEE 802.15.4e (6TiSCH) Configuration,Best Current Practice,html,rfcs\html\rfc8180.html,Yes
+,8179,Intellectual Property Rights in IETF Technology,Best Current Practice,txt,rfcs\txt\rfc8179.txt,Yes
+,8179,Intellectual Property Rights in IETF Technology,Best Current Practice,pdf,rfcs\pdf\rfc8179.pdf,Yes
+,8179,Intellectual Property Rights in IETF Technology,Best Current Practice,html,rfcs\html\rfc8179.html,Yes
+,8174,Ambiguity of Uppercase vs Lowercase in RFC 2119 Key Words,Best Current Practice,txt,rfcs\txt\rfc8174.txt,Yes
+,8174,Ambiguity of Uppercase vs Lowercase in RFC 2119 Key Words,Best Current Practice,pdf,rfcs\pdf\rfc8174.pdf,Yes
+,8174,Ambiguity of Uppercase vs Lowercase in RFC 2119 Key Words,Best Current Practice,html,rfcs\html\rfc8174.html,Yes
+,8126,Guidelines for Writing an IANA Considerations Section in RFCs,Best Current Practice,txt,rfcs\txt\rfc8126.txt,Yes
+,8126,Guidelines for Writing an IANA Considerations Section in RFCs,Best Current Practice,pdf,rfcs\pdf\rfc8126.pdf,Yes
+,8126,Guidelines for Writing an IANA Considerations Section in RFCs,Best Current Practice,html,rfcs\html\rfc8126.html,Yes
+,8109,Initializing a DNS Resolver with Priming Queries,Best Current Practice,txt,rfcs\txt\rfc8109.txt,Yes
+,8109,Initializing a DNS Resolver with Priming Queries,Best Current Practice,html,rfcs\html\rfc8109.html,Yes
+,8085,UDP Usage Guidelines,Best Current Practice,txt,rfcs\txt\rfc8085.txt,Yes
+,8085,UDP Usage Guidelines,Best Current Practice,pdf,rfcs\pdf\rfc8085.pdf,Yes
+,8085,UDP Usage Guidelines,Best Current Practice,html,rfcs\html\rfc8085.html,Yes
+,8084,Network Transport Circuit Breakers,Best Current Practice,txt,rfcs\txt\rfc8084.txt,Yes
+,8084,Network Transport Circuit Breakers,Best Current Practice,pdf,rfcs\pdf\rfc8084.pdf,Yes
+,8084,Network Transport Circuit Breakers,Best Current Practice,html,rfcs\html\rfc8084.html,Yes
+,8067,Updating When Standards Track Documents May Refer Normatively to Documents at a Lower Level,Best Current Practice,txt,rfcs\txt\rfc8067.txt,Yes
+,8067,Updating When Standards Track Documents May Refer Normatively to Documents at a Lower Level,Best Current Practice,pdf,rfcs\pdf\rfc8067.pdf,Yes
+,8067,Updating When Standards Track Documents May Refer Normatively to Documents at a Lower Level,Best Current Practice,html,rfcs\html\rfc8067.html,Yes
+,8027,DNSSEC Roadblock Avoidance,Best Current Practice,txt,rfcs\txt\rfc8027.txt,Yes
+,8027,DNSSEC Roadblock Avoidance,Best Current Practice,pdf,rfcs\pdf\rfc8027.pdf,Yes
+,8027,DNSSEC Roadblock Avoidance,Best Current Practice,html,rfcs\html\rfc8027.html,Yes
+,7957,DISPATCH-Style Working Groups and the SIP Change Process,Best Current Practice,txt,rfcs\txt\rfc7957.txt,Yes
+,7957,DISPATCH-Style Working Groups and the SIP Change Process,Best Current Practice,pdf,rfcs\pdf\rfc7957.pdf,Yes
+,7957,DISPATCH-Style Working Groups and the SIP Change Process,Best Current Practice,html,rfcs\html\rfc7957.html,Yes
+,7942,Improving Awareness of Running Code: The Implementation Status Section,Best Current Practice,txt,rfcs\txt\rfc7942.txt,Yes
+,7942,Improving Awareness of Running Code: The Implementation Status Section,Best Current Practice,pdf,rfcs\pdf\rfc7942.pdf,Yes
+,7942,Improving Awareness of Running Code: The Implementation Status Section,Best Current Practice,html,rfcs\html\rfc7942.html,Yes
+,7934,Host Address Availability Recommendations,Best Current Practice,txt,rfcs\txt\rfc7934.txt,Yes
+,7934,Host Address Availability Recommendations,Best Current Practice,pdf,rfcs\pdf\rfc7934.pdf,Yes
+,7934,Host Address Availability Recommendations,Best Current Practice,html,rfcs\html\rfc7934.html,Yes
+,7926,Problem Statement and Architecture for Information Exchange between Interconnected Traffic-Engineered Networks,Best Current Practice,txt,rfcs\txt\rfc7926.txt,Yes
+,7926,Problem Statement and Architecture for Information Exchange between Interconnected Traffic-Engineered Networks,Best Current Practice,pdf,rfcs\pdf\rfc7926.pdf,Yes
+,7926,Problem Statement and Architecture for Information Exchange between Interconnected Traffic-Engineered Networks,Best Current Practice,html,rfcs\html\rfc7926.html,Yes
+,7857,Updates to Network Address Translation (NAT) Behavioral Requirements,Best Current Practice,txt,rfcs\txt\rfc7857.txt,Yes
+,7857,Updates to Network Address Translation (NAT) Behavioral Requirements,Best Current Practice,pdf,rfcs\pdf\rfc7857.pdf,Yes
+,7857,Updates to Network Address Translation (NAT) Behavioral Requirements,Best Current Practice,html,rfcs\html\rfc7857.html,Yes
+,7803,Changing the Registration Policy for the NETCONF Capability URNs Registry,Best Current Practice,txt,rfcs\txt\rfc7803.txt,Yes
+,7803,Changing the Registration Policy for the NETCONF Capability URNs Registry,Best Current Practice,pdf,rfcs\pdf\rfc7803.pdf,Yes
+,7803,Changing the Registration Policy for the NETCONF Capability URNs Registry,Best Current Practice,html,rfcs\html\rfc7803.html,Yes
+,7793,Adding 100.64.0.0/10 Prefixes to the IPv4 Locally-Served DNS Zones Registry,Best Current Practice,txt,rfcs\txt\rfc7793.txt,Yes
+,7793,Adding 100.64.0.0/10 Prefixes to the IPv4 Locally-Served DNS Zones Registry,Best Current Practice,pdf,rfcs\pdf\rfc7793.pdf,Yes
+,7793,Adding 100.64.0.0/10 Prefixes to the IPv4 Locally-Served DNS Zones Registry,Best Current Practice,html,rfcs\html\rfc7793.html,Yes
+,7776,IETF Anti-Harassment Procedures,Best Current Practice,txt,rfcs\txt\rfc7776.txt,Yes
+,7776,IETF Anti-Harassment Procedures,Best Current Practice,pdf,rfcs\pdf\rfc7776.pdf,Yes
+,7776,IETF Anti-Harassment Procedures,Best Current Practice,html,rfcs\html\rfc7776.html,Yes
+,7772,Reducing Energy Consumption of Router Advertisements,Best Current Practice,txt,rfcs\txt\rfc7772.txt,Yes
+,7772,Reducing Energy Consumption of Router Advertisements,Best Current Practice,pdf,rfcs\pdf\rfc7772.pdf,Yes
+,7772,Reducing Energy Consumption of Router Advertisements,Best Current Practice,html,rfcs\html\rfc7772.html,Yes
+,7720,DNS Root Name Service Protocol and Deployment Requirements,Best Current Practice,txt,rfcs\txt\rfc7720.txt,Yes
+,7720,DNS Root Name Service Protocol and Deployment Requirements,Best Current Practice,pdf,rfcs\pdf\rfc7720.pdf,Yes
+,7720,DNS Root Name Service Protocol and Deployment Requirements,Best Current Practice,html,rfcs\html\rfc7720.html,Yes
+,7696,Guidelines for Cryptographic Algorithm Agility and Selecting Mandatory-to-Implement Algorithms,Best Current Practice,txt,rfcs\txt\rfc7696.txt,Yes
+,7696,Guidelines for Cryptographic Algorithm Agility and Selecting Mandatory-to-Implement Algorithms,Best Current Practice,pdf,rfcs\pdf\rfc7696.pdf,Yes
+,7696,Guidelines for Cryptographic Algorithm Agility and Selecting Mandatory-to-Implement Algorithms,Best Current Practice,html,rfcs\html\rfc7696.html,Yes
+,7691,Updating the Term Dates of IETF Administrative Oversight Committee (IAOC) Members,Best Current Practice,txt,rfcs\txt\rfc7691.txt,Yes
+,7691,Updating the Term Dates of IETF Administrative Oversight Committee (IAOC) Members,Best Current Practice,pdf,rfcs\pdf\rfc7691.pdf,Yes
+,7691,Updating the Term Dates of IETF Administrative Oversight Committee (IAOC) Members,Best Current Practice,html,rfcs\html\rfc7691.html,Yes
+,7610,DHCPv6-Shield: Protecting against Rogue DHCPv6 Servers,Best Current Practice,txt,rfcs\txt\rfc7610.txt,Yes
+,7610,DHCPv6-Shield: Protecting against Rogue DHCPv6 Servers,Best Current Practice,pdf,rfcs\pdf\rfc7610.pdf,Yes
+,7610,DHCPv6-Shield: Protecting against Rogue DHCPv6 Servers,Best Current Practice,html,rfcs\html\rfc7610.html,Yes
+,7608,IPv6 Prefix Length Recommendation for Forwarding,Best Current Practice,txt,rfcs\txt\rfc7608.txt,Yes
+,7608,IPv6 Prefix Length Recommendation for Forwarding,Best Current Practice,pdf,rfcs\pdf\rfc7608.pdf,Yes
+,7608,IPv6 Prefix Length Recommendation for Forwarding,Best Current Practice,html,rfcs\html\rfc7608.html,Yes
+,7605,Recommendations on Using Assigned Transport Port Numbers,Best Current Practice,txt,rfcs\txt\rfc7605.txt,Yes
+,7605,Recommendations on Using Assigned Transport Port Numbers,Best Current Practice,pdf,rfcs\pdf\rfc7605.pdf,Yes
+,7605,Recommendations on Using Assigned Transport Port Numbers,Best Current Practice,html,rfcs\html\rfc7605.html,Yes
+,7595,Guidelines and Registration Procedures for URI Schemes,Best Current Practice,txt,rfcs\txt\rfc7595.txt,Yes
+,7595,Guidelines and Registration Procedures for URI Schemes,Best Current Practice,pdf,rfcs\pdf\rfc7595.pdf,Yes
+,7595,Guidelines and Registration Procedures for URI Schemes,Best Current Practice,html,rfcs\html\rfc7595.html,Yes
+,7567,IETF Recommendations Regarding Active Queue Management,Best Current Practice,txt,rfcs\txt\rfc7567.txt,Yes
+,7567,IETF Recommendations Regarding Active Queue Management,Best Current Practice,pdf,rfcs\pdf\rfc7567.pdf,Yes
+,7567,IETF Recommendations Regarding Active Queue Management,Best Current Practice,html,rfcs\html\rfc7567.html,Yes
+,7526,Deprecating the Anycast Prefix for 6to4 Relay Routers,Best Current Practice,txt,rfcs\txt\rfc7526.txt,Yes
+,7526,Deprecating the Anycast Prefix for 6to4 Relay Routers,Best Current Practice,pdf,rfcs\pdf\rfc7526.pdf,Yes
+,7526,Deprecating the Anycast Prefix for 6to4 Relay Routers,Best Current Practice,html,rfcs\html\rfc7526.html,Yes
+,7525,Recommendations for Secure Use of Transport Layer Security (TLS) and Datagram Transport Layer Security (DTLS),Best Current Practice,txt,rfcs\txt\rfc7525.txt,Yes
+,7525,Recommendations for Secure Use of Transport Layer Security (TLS) and Datagram Transport Layer Security (DTLS),Best Current Practice,pdf,rfcs\pdf\rfc7525.pdf,Yes
+,7525,Recommendations for Secure Use of Transport Layer Security (TLS) and Datagram Transport Layer Security (DTLS),Best Current Practice,html,rfcs\html\rfc7525.html,Yes
+,7475,Increasing the Number of Area Directors in an IETF Area,Best Current Practice,txt,rfcs\txt\rfc7475.txt,Yes
+,7475,Increasing the Number of Area Directors in an IETF Area,Best Current Practice,pdf,rfcs\pdf\rfc7475.pdf,Yes
+,7475,Increasing the Number of Area Directors in an IETF Area,Best Current Practice,html,rfcs\html\rfc7475.html,Yes
+,7454,BGP Operations and Security,Best Current Practice,txt,rfcs\txt\rfc7454.txt,Yes
+,7454,BGP Operations and Security,Best Current Practice,pdf,rfcs\pdf\rfc7454.pdf,Yes
+,7454,BGP Operations and Security,Best Current Practice,html,rfcs\html\rfc7454.html,Yes
+,7437,"IAB, IESG, and IAOC Selection, Confirmation, and Recall Process: Operation of the Nominating and Recall Committees",Best Current Practice,txt,rfcs\txt\rfc7437.txt,Yes
+,7437,"IAB, IESG, and IAOC Selection, Confirmation, and Recall Process: Operation of the Nominating and Recall Committees",Best Current Practice,pdf,rfcs\pdf\rfc7437.pdf,Yes
+,7437,"IAB, IESG, and IAOC Selection, Confirmation, and Recall Process: Operation of the Nominating and Recall Committees",Best Current Practice,html,rfcs\html\rfc7437.html,Yes
+,7423,Diameter Applications Design Guidelines,Best Current Practice,txt,rfcs\txt\rfc7423.txt,Yes
+,7423,Diameter Applications Design Guidelines,Best Current Practice,pdf,rfcs\pdf\rfc7423.pdf,Yes
+,7423,Diameter Applications Design Guidelines,Best Current Practice,html,rfcs\html\rfc7423.html,Yes
+,7382,Template for a Certification Practice Statement (CPS) for the Resource PKI (RPKI),Best Current Practice,txt,rfcs\txt\rfc7382.txt,Yes
+,7382,Template for a Certification Practice Statement (CPS) for the Resource PKI (RPKI),Best Current Practice,pdf,rfcs\pdf\rfc7382.pdf,Yes
+,7382,Template for a Certification Practice Statement (CPS) for the Resource PKI (RPKI),Best Current Practice,html,rfcs\html\rfc7382.html,Yes
+,7320,URI Design and Ownership,Best Current Practice,txt,rfcs\txt\rfc7320.txt,Yes
+,7320,URI Design and Ownership,Best Current Practice,pdf,rfcs\pdf\rfc7320.pdf,Yes
+,7320,URI Design and Ownership,Best Current Practice,html,rfcs\html\rfc7320.html,Yes
+,7319,IANA Considerations for Connectivity Fault Management (CFM) Code Points,Best Current Practice,txt,rfcs\txt\rfc7319.txt,Yes
+,7319,IANA Considerations for Connectivity Fault Management (CFM) Code Points,Best Current Practice,pdf,rfcs\pdf\rfc7319.pdf,Yes
+,7319,IANA Considerations for Connectivity Fault Management (CFM) Code Points,Best Current Practice,html,rfcs\html\rfc7319.html,Yes
+,7300,Reservation of Last Autonomous System (AS) Numbers,Best Current Practice,txt,rfcs\txt\rfc7300.txt,Yes
+,7300,Reservation of Last Autonomous System (AS) Numbers,Best Current Practice,pdf,rfcs\pdf\rfc7300.pdf,Yes
+,7300,Reservation of Last Autonomous System (AS) Numbers,Best Current Practice,html,rfcs\html\rfc7300.html,Yes
+,7279,An Acceptable Use Policy for New ICMP Types and Codes,Best Current Practice,txt,rfcs\txt\rfc7279.txt,Yes
+,7279,An Acceptable Use Policy for New ICMP Types and Codes,Best Current Practice,pdf,rfcs\pdf\rfc7279.pdf,Yes
+,7279,An Acceptable Use Policy for New ICMP Types and Codes,Best Current Practice,html,rfcs\html\rfc7279.html,Yes
+,7258,Pervasive Monitoring Is an Attack,Best Current Practice,txt,rfcs\txt\rfc7258.txt,Yes
+,7258,Pervasive Monitoring Is an Attack,Best Current Practice,pdf,rfcs\pdf\rfc7258.pdf,Yes
+,7258,Pervasive Monitoring Is an Attack,Best Current Practice,html,rfcs\html\rfc7258.html,Yes
+,7227,Guidelines for Creating New DHCPv6 Options,Best Current Practice,txt,rfcs\txt\rfc7227.txt,Yes
+,7227,Guidelines for Creating New DHCPv6 Options,Best Current Practice,pdf,rfcs\pdf\rfc7227.pdf,Yes
+,7227,Guidelines for Creating New DHCPv6 Options,Best Current Practice,html,rfcs\html\rfc7227.html,Yes
+,7154,IETF Guidelines for Conduct,Best Current Practice,txt,rfcs\txt\rfc7154.txt,Yes
+,7154,IETF Guidelines for Conduct,Best Current Practice,pdf,rfcs\pdf\rfc7154.pdf,Yes
+,7154,IETF Guidelines for Conduct,Best Current Practice,html,rfcs\html\rfc7154.html,Yes
+,7141,Byte and Packet Congestion Notification,Best Current Practice,txt,rfcs\txt\rfc7141.txt,Yes
+,7141,Byte and Packet Congestion Notification,Best Current Practice,pdf,rfcs\pdf\rfc7141.pdf,Yes
+,7141,Byte and Packet Congestion Notification,Best Current Practice,html,rfcs\html\rfc7141.html,Yes
+,7127,Characterization of Proposed Standards,Best Current Practice,txt,rfcs\txt\rfc7127.txt,Yes
+,7127,Characterization of Proposed Standards,Best Current Practice,pdf,rfcs\pdf\rfc7127.pdf,Yes
+,7127,Characterization of Proposed Standards,Best Current Practice,html,rfcs\html\rfc7127.html,Yes
+,7126,Recommendations on Filtering of IPv4 Packets Containing IPv4 Options,Best Current Practice,txt,rfcs\txt\rfc7126.txt,Yes
+,7126,Recommendations on Filtering of IPv4 Packets Containing IPv4 Options,Best Current Practice,pdf,rfcs\pdf\rfc7126.pdf,Yes
+,7126,Recommendations on Filtering of IPv4 Packets Containing IPv4 Options,Best Current Practice,html,rfcs\html\rfc7126.html,Yes
+,7120,Early IANA Allocation of Standards Track Code Points,Best Current Practice,txt,rfcs\txt\rfc7120.txt,Yes
+,7120,Early IANA Allocation of Standards Track Code Points,Best Current Practice,pdf,rfcs\pdf\rfc7120.pdf,Yes
+,7120,Early IANA Allocation of Standards Track Code Points,Best Current Practice,html,rfcs\html\rfc7120.html,Yes
+,7115,Origin Validation Operation Based on the Resource Public Key Infrastructure (RPKI),Best Current Practice,txt,rfcs\txt\rfc7115.txt,Yes
+,7115,Origin Validation Operation Based on the Resource Public Key Infrastructure (RPKI),Best Current Practice,pdf,rfcs\pdf\rfc7115.pdf,Yes
+,7115,Origin Validation Operation Based on the Resource Public Key Infrastructure (RPKI),Best Current Practice,html,rfcs\html\rfc7115.html,Yes
+,7100,"Retirement of the ""Internet Official Protocol Standards"" Summary Document",Best Current Practice,txt,rfcs\txt\rfc7100.txt,Yes
+,7100,"Retirement of the ""Internet Official Protocol Standards"" Summary Document",Best Current Practice,pdf,rfcs\pdf\rfc7100.pdf,Yes
+,7100,"Retirement of the ""Internet Official Protocol Standards"" Summary Document",Best Current Practice,html,rfcs\html\rfc7100.html,Yes
+,7042,IANA Considerations and IETF Protocol and Documentation Usage for IEEE 802 Parameters,Best Current Practice,txt,rfcs\txt\rfc7042.txt,Yes
+,7042,IANA Considerations and IETF Protocol and Documentation Usage for IEEE 802 Parameters,Best Current Practice,pdf,rfcs\pdf\rfc7042.pdf,Yes
+,7042,IANA Considerations and IETF Protocol and Documentation Usage for IEEE 802 Parameters,Best Current Practice,html,rfcs\html\rfc7042.html,Yes
+,7013,Guidelines for Authors and Reviewers of IP Flow Information Export (IPFIX) Information Elements,Best Current Practice,txt,rfcs\txt\rfc7013.txt,Yes
+,7013,Guidelines for Authors and Reviewers of IP Flow Information Export (IPFIX) Information Elements,Best Current Practice,pdf,rfcs\pdf\rfc7013.pdf,Yes
+,7013,Guidelines for Authors and Reviewers of IP Flow Information Export (IPFIX) Information Elements,Best Current Practice,html,rfcs\html\rfc7013.html,Yes
+,6996,Autonomous System (AS) Reservation for Private Use,Best Current Practice,txt,rfcs\txt\rfc6996.txt,Yes
+,6996,Autonomous System (AS) Reservation for Private Use,Best Current Practice,pdf,rfcs\pdf\rfc6996.pdf,Yes
+,6996,Autonomous System (AS) Reservation for Private Use,Best Current Practice,html,rfcs\html\rfc6996.html,Yes
+,6963,A Uniform Resource Name (URN) Namespace for Examples,Best Current Practice,txt,rfcs\txt\rfc6963.txt,Yes
+,6963,A Uniform Resource Name (URN) Namespace for Examples,Best Current Practice,pdf,rfcs\pdf\rfc6963.pdf,Yes
+,6963,A Uniform Resource Name (URN) Namespace for Examples,Best Current Practice,html,rfcs\html\rfc6963.html,Yes
+,6916,Algorithm Agility Procedure for the Resource Public Key Infrastructure (RPKI),Best Current Practice,txt,rfcs\txt\rfc6916.txt,Yes
+,6916,Algorithm Agility Procedure for the Resource Public Key Infrastructure (RPKI),Best Current Practice,pdf,rfcs\pdf\rfc6916.pdf,Yes
+,6916,Algorithm Agility Procedure for the Resource Public Key Infrastructure (RPKI),Best Current Practice,html,rfcs\html\rfc6916.html,Yes
+,6895,Domain Name System (DNS) IANA Considerations,Best Current Practice,txt,rfcs\txt\rfc6895.txt,Yes
+,6895,Domain Name System (DNS) IANA Considerations,Best Current Practice,pdf,rfcs\pdf\rfc6895.pdf,Yes
+,6895,Domain Name System (DNS) IANA Considerations,Best Current Practice,html,rfcs\html\rfc6895.html,Yes
+,6890,Special-Purpose IP Address Registries,Best Current Practice,txt,rfcs\txt\rfc6890.txt,Yes
+,6890,Special-Purpose IP Address Registries,Best Current Practice,pdf,rfcs\pdf\rfc6890.pdf,Yes
+,6890,Special-Purpose IP Address Registries,Best Current Practice,html,rfcs\html\rfc6890.html,Yes
+,6888,Common Requirements for Carrier-Grade NATs (CGNs),Best Current Practice,txt,rfcs\txt\rfc6888.txt,Yes
+,6888,Common Requirements for Carrier-Grade NATs (CGNs),Best Current Practice,pdf,rfcs\pdf\rfc6888.pdf,Yes
+,6888,Common Requirements for Carrier-Grade NATs (CGNs),Best Current Practice,html,rfcs\html\rfc6888.html,Yes
+,6881,Best Current Practice for Communications Services in Support of Emergency Calling,Best Current Practice,txt,rfcs\txt\rfc6881.txt,Yes
+,6881,Best Current Practice for Communications Services in Support of Emergency Calling,Best Current Practice,pdf,rfcs\pdf\rfc6881.pdf,Yes
+,6881,Best Current Practice for Communications Services in Support of Emergency Calling,Best Current Practice,html,rfcs\html\rfc6881.html,Yes
+,6859,Update to RFC 3777 to Clarify Nominating Committee Eligibility of IETF Leadership,Best Current Practice,txt,rfcs\txt\rfc6859.txt,Yes
+,6859,Update to RFC 3777 to Clarify Nominating Committee Eligibility of IETF Leadership,Best Current Practice,pdf,rfcs\pdf\rfc6859.pdf,Yes
+,6859,Update to RFC 3777 to Clarify Nominating Committee Eligibility of IETF Leadership,Best Current Practice,html,rfcs\html\rfc6859.html,Yes
+,6853,DHCPv6 Redundancy Deployment Considerations,Best Current Practice,txt,rfcs\txt\rfc6853.txt,Yes
+,6853,DHCPv6 Redundancy Deployment Considerations,Best Current Practice,pdf,rfcs\pdf\rfc6853.pdf,Yes
+,6853,DHCPv6 Redundancy Deployment Considerations,Best Current Practice,html,rfcs\html\rfc6853.html,Yes
+,6838,Media Type Specifications and Registration Procedures,Best Current Practice,txt,rfcs\txt\rfc6838.txt,Yes
+,6838,Media Type Specifications and Registration Procedures,Best Current Practice,pdf,rfcs\pdf\rfc6838.pdf,Yes
+,6838,Media Type Specifications and Registration Procedures,Best Current Practice,html,rfcs\html\rfc6838.html,Yes
+,6649,"Deprecate DES, RC4-HMAC-EXP, and Other Weak Cryptographic Algorithms in Kerberos",Best Current Practice,txt,rfcs\txt\rfc6649.txt,Yes
+,6649,"Deprecate DES, RC4-HMAC-EXP, and Other Weak Cryptographic Algorithms in Kerberos",Best Current Practice,pdf,rfcs\pdf\rfc6649.pdf,Yes
+,6649,"Deprecate DES, RC4-HMAC-EXP, and Other Weak Cryptographic Algorithms in Kerberos",Best Current Practice,html,rfcs\html\rfc6649.html,Yes
+,6648,"Deprecating the ""X-"" Prefix and Similar Constructs in Application Protocols",Best Current Practice,txt,rfcs\txt\rfc6648.txt,Yes
+,6648,"Deprecating the ""X-"" Prefix and Similar Constructs in Application Protocols",Best Current Practice,pdf,rfcs\pdf\rfc6648.pdf,Yes
+,6648,"Deprecating the ""X-"" Prefix and Similar Constructs in Application Protocols",Best Current Practice,html,rfcs\html\rfc6648.html,Yes
+,6598,IANA-Reserved IPv4 Prefix for Shared Address Space,Best Current Practice,txt,rfcs\txt\rfc6598.txt,Yes
+,6598,IANA-Reserved IPv4 Prefix for Shared Address Space,Best Current Practice,pdf,rfcs\pdf\rfc6598.pdf,Yes
+,6598,IANA-Reserved IPv4 Prefix for Shared Address Space,Best Current Practice,html,rfcs\html\rfc6598.html,Yes
+,6576,IP Performance Metrics (IPPM) Standard Advancement Testing,Best Current Practice,txt,rfcs\txt\rfc6576.txt,Yes
+,6576,IP Performance Metrics (IPPM) Standard Advancement Testing,Best Current Practice,pdf,rfcs\pdf\rfc6576.pdf,Yes
+,6576,IP Performance Metrics (IPPM) Standard Advancement Testing,Best Current Practice,html,rfcs\html\rfc6576.html,Yes
+,6557,Procedures for Maintaining the Time Zone Database,Best Current Practice,txt,rfcs\txt\rfc6557.txt,Yes
+,6557,Procedures for Maintaining the Time Zone Database,Best Current Practice,pdf,rfcs\pdf\rfc6557.pdf,Yes
+,6557,Procedures for Maintaining the Time Zone Database,Best Current Practice,html,rfcs\html\rfc6557.html,Yes
+,6540,IPv6 Support Required for All IP-Capable Nodes,Best Current Practice,txt,rfcs\txt\rfc6540.txt,Yes
+,6540,IPv6 Support Required for All IP-Capable Nodes,Best Current Practice,pdf,rfcs\pdf\rfc6540.pdf,Yes
+,6540,IPv6 Support Required for All IP-Capable Nodes,Best Current Practice,html,rfcs\html\rfc6540.html,Yes
+,6489,Certification Authority (CA) Key Rollover in the Resource Public Key Infrastructure (RPKI),Best Current Practice,txt,rfcs\txt\rfc6489.txt,Yes
+,6489,Certification Authority (CA) Key Rollover in the Resource Public Key Infrastructure (RPKI),Best Current Practice,pdf,rfcs\pdf\rfc6489.pdf,Yes
+,6489,Certification Authority (CA) Key Rollover in the Resource Public Key Infrastructure (RPKI),Best Current Practice,html,rfcs\html\rfc6489.html,Yes
+,6484,Certificate Policy (CP) for the Resource Public Key Infrastructure (RPKI),Best Current Practice,txt,rfcs\txt\rfc6484.txt,Yes
+,6484,Certificate Policy (CP) for the Resource Public Key Infrastructure (RPKI),Best Current Practice,pdf,rfcs\pdf\rfc6484.pdf,Yes
+,6484,Certificate Policy (CP) for the Resource Public Key Infrastructure (RPKI),Best Current Practice,html,rfcs\html\rfc6484.html,Yes
+,6472,Recommendation for Not Using AS_SET and AS_CONFED_SET in BGP,Best Current Practice,txt,rfcs\txt\rfc6472.txt,Yes
+,6472,Recommendation for Not Using AS_SET and AS_CONFED_SET in BGP,Best Current Practice,pdf,rfcs\pdf\rfc6472.pdf,Yes
+,6472,Recommendation for Not Using AS_SET and AS_CONFED_SET in BGP,Best Current Practice,html,rfcs\html\rfc6472.html,Yes
+,6441,Time to Remove Filters for Previously Unallocated IPv4 /8s,Best Current Practice,txt,rfcs\txt\rfc6441.txt,Yes
+,6441,Time to Remove Filters for Previously Unallocated IPv4 /8s,Best Current Practice,pdf,rfcs\pdf\rfc6441.pdf,Yes
+,6441,Time to Remove Filters for Previously Unallocated IPv4 /8s,Best Current Practice,html,rfcs\html\rfc6441.html,Yes
+,6410,Reducing the Standards Track to Two Maturity Levels,Best Current Practice,txt,rfcs\txt\rfc6410.txt,Yes
+,6410,Reducing the Standards Track to Two Maturity Levels,Best Current Practice,pdf,rfcs\pdf\rfc6410.pdf,Yes
+,6410,Reducing the Standards Track to Two Maturity Levels,Best Current Practice,html,rfcs\html\rfc6410.html,Yes
+,6398,IP Router Alert Considerations and Usage,Best Current Practice,txt,rfcs\txt\rfc6398.txt,Yes
+,6398,IP Router Alert Considerations and Usage,Best Current Practice,pdf,rfcs\pdf\rfc6398.pdf,Yes
+,6398,IP Router Alert Considerations and Usage,Best Current Practice,html,rfcs\html\rfc6398.html,Yes
+,6390,Guidelines for Considering New Performance Metric Development,Best Current Practice,txt,rfcs\txt\rfc6390.txt,Yes
+,6390,Guidelines for Considering New Performance Metric Development,Best Current Practice,pdf,rfcs\pdf\rfc6390.pdf,Yes
+,6390,Guidelines for Considering New Performance Metric Development,Best Current Practice,html,rfcs\html\rfc6390.html,Yes
+,6382,Unique Origin Autonomous System Numbers (ASNs) per Node for Globally Anycasted Services,Best Current Practice,txt,rfcs\txt\rfc6382.txt,Yes
+,6382,Unique Origin Autonomous System Numbers (ASNs) per Node for Globally Anycasted Services,Best Current Practice,pdf,rfcs\pdf\rfc6382.pdf,Yes
+,6382,Unique Origin Autonomous System Numbers (ASNs) per Node for Globally Anycasted Services,Best Current Practice,html,rfcs\html\rfc6382.html,Yes
+,6377,DomainKeys Identified Mail (DKIM) and Mailing Lists,Best Current Practice,txt,rfcs\txt\rfc6377.txt,Yes
+,6377,DomainKeys Identified Mail (DKIM) and Mailing Lists,Best Current Practice,pdf,rfcs\pdf\rfc6377.pdf,Yes
+,6377,DomainKeys Identified Mail (DKIM) and Mailing Lists,Best Current Practice,html,rfcs\html\rfc6377.html,Yes
+,6365,Terminology Used in Internationalization in the IETF,Best Current Practice,txt,rfcs\txt\rfc6365.txt,Yes
+,6365,Terminology Used in Internationalization in the IETF,Best Current Practice,pdf,rfcs\pdf\rfc6365.pdf,Yes
+,6365,Terminology Used in Internationalization in the IETF,Best Current Practice,html,rfcs\html\rfc6365.html,Yes
+,6335,Internet Assigned Numbers Authority (IANA) Procedures for the Management of the Service Name and Transport Protocol Port Number Registry,Best Current Practice,txt,rfcs\txt\rfc6335.txt,Yes
+,6335,Internet Assigned Numbers Authority (IANA) Procedures for the Management of the Service Name and Transport Protocol Port Number Registry,Best Current Practice,pdf,rfcs\pdf\rfc6335.pdf,Yes
+,6335,Internet Assigned Numbers Authority (IANA) Procedures for the Management of the Service Name and Transport Protocol Port Number Registry,Best Current Practice,html,rfcs\html\rfc6335.html,Yes
+,6328,IANA Considerations for Network Layer Protocol Identifiers,Best Current Practice,txt,rfcs\txt\rfc6328.txt,Yes
+,6328,IANA Considerations for Network Layer Protocol Identifiers,Best Current Practice,pdf,rfcs\pdf\rfc6328.pdf,Yes
+,6328,IANA Considerations for Network Layer Protocol Identifiers,Best Current Practice,html,rfcs\html\rfc6328.html,Yes
+,6303,Locally Served DNS Zones,Best Current Practice,txt,rfcs\txt\rfc6303.txt,Yes
+,6303,Locally Served DNS Zones,Best Current Practice,pdf,rfcs\pdf\rfc6303.pdf,Yes
+,6303,Locally Served DNS Zones,Best Current Practice,html,rfcs\html\rfc6303.html,Yes
+,6302,Logging Recommendations for Internet-Facing Servers,Best Current Practice,txt,rfcs\txt\rfc6302.txt,Yes
+,6302,Logging Recommendations for Internet-Facing Servers,Best Current Practice,pdf,rfcs\pdf\rfc6302.pdf,Yes
+,6302,Logging Recommendations for Internet-Facing Servers,Best Current Practice,html,rfcs\html\rfc6302.html,Yes
+,6291,"Guidelines for the Use of the ""OAM"" Acronym in the IETF",Best Current Practice,txt,rfcs\txt\rfc6291.txt,Yes
+,6291,"Guidelines for the Use of the ""OAM"" Acronym in the IETF",Best Current Practice,pdf,rfcs\pdf\rfc6291.pdf,Yes
+,6291,"Guidelines for the Use of the ""OAM"" Acronym in the IETF",Best Current Practice,html,rfcs\html\rfc6291.html,Yes
+,6280,An Architecture for Location and Location Privacy in Internet Applications,Best Current Practice,txt,rfcs\txt\rfc6280.txt,Yes
+,6280,An Architecture for Location and Location Privacy in Internet Applications,Best Current Practice,pdf,rfcs\pdf\rfc6280.pdf,Yes
+,6280,An Architecture for Location and Location Privacy in Internet Applications,Best Current Practice,html,rfcs\html\rfc6280.html,Yes
+,6195,Domain Name System (DNS) IANA Considerations,Best Current Practice,txt,rfcs\txt\rfc6195.txt,Yes
+,6195,Domain Name System (DNS) IANA Considerations,Best Current Practice,pdf,rfcs\pdf\rfc6195.pdf,Yes
+,6195,Domain Name System (DNS) IANA Considerations,Best Current Practice,html,rfcs\html\rfc6195.html,Yes
+,6191,Reducing the TIME-WAIT State Using TCP Timestamps,Best Current Practice,txt,rfcs\txt\rfc6191.txt,Yes
+,6191,Reducing the TIME-WAIT State Using TCP Timestamps,Best Current Practice,pdf,rfcs\pdf\rfc6191.pdf,Yes
+,6191,Reducing the TIME-WAIT State Using TCP Timestamps,Best Current Practice,html,rfcs\html\rfc6191.html,Yes
+,6177,IPv6 Address Assignment to End Sites,Best Current Practice,txt,rfcs\txt\rfc6177.txt,Yes
+,6177,IPv6 Address Assignment to End Sites,Best Current Practice,pdf,rfcs\pdf\rfc6177.pdf,Yes
+,6177,IPv6 Address Assignment to End Sites,Best Current Practice,html,rfcs\html\rfc6177.html,Yes
+,6158,RADIUS Design Guidelines,Best Current Practice,txt,rfcs\txt\rfc6158.txt,Yes
+,6158,RADIUS Design Guidelines,Best Current Practice,pdf,rfcs\pdf\rfc6158.pdf,Yes
+,6158,RADIUS Design Guidelines,Best Current Practice,html,rfcs\html\rfc6158.html,Yes
+,6056,Recommendations for Transport-Protocol Port Randomization,Best Current Practice,txt,rfcs\txt\rfc6056.txt,Yes
+,6056,Recommendations for Transport-Protocol Port Randomization,Best Current Practice,pdf,rfcs\pdf\rfc6056.pdf,Yes
+,6056,Recommendations for Transport-Protocol Port Randomization,Best Current Practice,html,rfcs\html\rfc6056.html,Yes
+,5855,Nameservers for IPv4 and IPv6 Reverse Zones,Best Current Practice,txt,rfcs\txt\rfc5855.txt,Yes
+,5855,Nameservers for IPv4 and IPv6 Reverse Zones,Best Current Practice,pdf,rfcs\pdf\rfc5855.pdf,Yes
+,5855,Nameservers for IPv4 and IPv6 Reverse Zones,Best Current Practice,html,rfcs\html\rfc5855.html,Yes
+,5774,Considerations for Civic Addresses in the Presence Information Data Format Location Object (PIDF-LO): Guidelines and IANA Registry Definition,Best Current Practice,txt,rfcs\txt\rfc5774.txt,Yes
+,5774,Considerations for Civic Addresses in the Presence Information Data Format Location Object (PIDF-LO): Guidelines and IANA Registry Definition,Best Current Practice,pdf,rfcs\pdf\rfc5774.pdf,Yes
+,5774,Considerations for Civic Addresses in the Presence Information Data Format Location Object (PIDF-LO): Guidelines and IANA Registry Definition,Best Current Practice,html,rfcs\html\rfc5774.html,Yes
+,5771,IANA Guidelines for IPv4 Multicast Address Assignments,Best Current Practice,txt,rfcs\txt\rfc5771.txt,Yes
+,5771,IANA Guidelines for IPv4 Multicast Address Assignments,Best Current Practice,pdf,rfcs\pdf\rfc5771.pdf,Yes
+,5771,IANA Guidelines for IPv4 Multicast Address Assignments,Best Current Practice,html,rfcs\html\rfc5771.html,Yes
+,5742,IESG Procedures for Handling of Independent and IRTF Stream Submissions,Best Current Practice,txt,rfcs\txt\rfc5742.txt,Yes
+,5742,IESG Procedures for Handling of Independent and IRTF Stream Submissions,Best Current Practice,pdf,rfcs\pdf\rfc5742.pdf,Yes
+,5742,IESG Procedures for Handling of Independent and IRTF Stream Submissions,Best Current Practice,html,rfcs\html\rfc5742.html,Yes
+,5735,Special Use IPv4 Addresses,Best Current Practice,txt,rfcs\txt\rfc5735.txt,Yes
+,5735,Special Use IPv4 Addresses,Best Current Practice,pdf,rfcs\pdf\rfc5735.pdf,Yes
+,5735,Special Use IPv4 Addresses,Best Current Practice,html,rfcs\html\rfc5735.html,Yes
+,5727,Change Process for the Session Initiation Protocol (SIP) and the Real-time Applications and Infrastructure Area,Best Current Practice,txt,rfcs\txt\rfc5727.txt,Yes
+,5727,Change Process for the Session Initiation Protocol (SIP) and the Real-time Applications and Infrastructure Area,Best Current Practice,pdf,rfcs\pdf\rfc5727.pdf,Yes
+,5727,Change Process for the Session Initiation Protocol (SIP) and the Real-time Applications and Infrastructure Area,Best Current Practice,html,rfcs\html\rfc5727.html,Yes
+,5680,The Nominating Committee Process: Open Disclosure of Willing Nominees,Best Current Practice,txt,rfcs\txt\rfc5680.txt,Yes
+,5680,The Nominating Committee Process: Open Disclosure of Willing Nominees,Best Current Practice,pdf,rfcs\pdf\rfc5680.pdf,Yes
+,5680,The Nominating Committee Process: Open Disclosure of Willing Nominees,Best Current Practice,html,rfcs\html\rfc5680.html,Yes
+,5657,Guidance on Interoperation and Implementation Reports for Advancement to Draft Standard,Best Current Practice,txt,rfcs\txt\rfc5657.txt,Yes
+,5657,Guidance on Interoperation and Implementation Reports for Advancement to Draft Standard,Best Current Practice,pdf,rfcs\pdf\rfc5657.pdf,Yes
+,5657,Guidance on Interoperation and Implementation Reports for Advancement to Draft Standard,Best Current Practice,html,rfcs\html\rfc5657.html,Yes
+,5646,Tags for Identifying Languages,Best Current Practice,txt,rfcs\txt\rfc5646.txt,Yes
+,5646,Tags for Identifying Languages,Best Current Practice,pdf,rfcs\pdf\rfc5646.pdf,Yes
+,5646,Tags for Identifying Languages,Best Current Practice,html,rfcs\html\rfc5646.html,Yes
+,5633,Nominating Committee Process: Earlier Announcement of Open Positions and Solicitation of Volunteers,Best Current Practice,txt,rfcs\txt\rfc5633.txt,Yes
+,5633,Nominating Committee Process: Earlier Announcement of Open Positions and Solicitation of Volunteers,Best Current Practice,pdf,rfcs\pdf\rfc5633.pdf,Yes
+,5633,Nominating Committee Process: Earlier Announcement of Open Positions and Solicitation of Volunteers,Best Current Practice,html,rfcs\html\rfc5633.html,Yes
+,5625,DNS Proxy Implementation Guidelines,Best Current Practice,txt,rfcs\txt\rfc5625.txt,Yes
+,5625,DNS Proxy Implementation Guidelines,Best Current Practice,pdf,rfcs\pdf\rfc5625.pdf,Yes
+,5625,DNS Proxy Implementation Guidelines,Best Current Practice,html,rfcs\html\rfc5625.html,Yes
+,5615,H.248/MEGACO Registration Procedures,Best Current Practice,txt,rfcs\txt\rfc5615.txt,Yes
+,5615,H.248/MEGACO Registration Procedures,Best Current Practice,pdf,rfcs\pdf\rfc5615.pdf,Yes
+,5615,H.248/MEGACO Registration Procedures,Best Current Practice,html,rfcs\html\rfc5615.html,Yes
+,5597,Network Address Translation (NAT) Behavioral Requirements for the Datagram Congestion Control Protocol,Best Current Practice,txt,rfcs\txt\rfc5597.txt,Yes
+,5597,Network Address Translation (NAT) Behavioral Requirements for the Datagram Congestion Control Protocol,Best Current Practice,pdf,rfcs\pdf\rfc5597.pdf,Yes
+,5597,Network Address Translation (NAT) Behavioral Requirements for the Datagram Congestion Control Protocol,Best Current Practice,html,rfcs\html\rfc5597.html,Yes
+,5589,Session Initiation Protocol (SIP) Call Control - Transfer,Best Current Practice,txt,rfcs\txt\rfc5589.txt,Yes
+,5589,Session Initiation Protocol (SIP) Call Control - Transfer,Best Current Practice,pdf,rfcs\pdf\rfc5589.pdf,Yes
+,5589,Session Initiation Protocol (SIP) Call Control - Transfer,Best Current Practice,html,rfcs\html\rfc5589.html,Yes
+,5508,NAT Behavioral Requirements for ICMP,Best Current Practice,txt,rfcs\txt\rfc5508.txt,Yes
+,5508,NAT Behavioral Requirements for ICMP,Best Current Practice,pdf,rfcs\pdf\rfc5508.pdf,Yes
+,5508,NAT Behavioral Requirements for ICMP,Best Current Practice,html,rfcs\html\rfc5508.html,Yes
+,5407,Example Call Flows of Race Conditions in the Session Initiation Protocol (SIP),Best Current Practice,txt,rfcs\txt\rfc5407.txt,Yes
+,5407,Example Call Flows of Race Conditions in the Session Initiation Protocol (SIP),Best Current Practice,pdf,rfcs\pdf\rfc5407.pdf,Yes
+,5407,Example Call Flows of Race Conditions in the Session Initiation Protocol (SIP),Best Current Practice,html,rfcs\html\rfc5407.html,Yes
+,5406,Guidelines for Specifying the Use of IPsec Version 2,Best Current Practice,txt,rfcs\txt\rfc5406.txt,Yes
+,5406,Guidelines for Specifying the Use of IPsec Version 2,Best Current Practice,pdf,rfcs\pdf\rfc5406.pdf,Yes
+,5406,Guidelines for Specifying the Use of IPsec Version 2,Best Current Practice,html,rfcs\html\rfc5406.html,Yes
+,5405,Unicast UDP Usage Guidelines for Application Designers,Best Current Practice,txt,rfcs\txt\rfc5405.txt,Yes
+,5405,Unicast UDP Usage Guidelines for Application Designers,Best Current Practice,pdf,rfcs\pdf\rfc5405.pdf,Yes
+,5405,Unicast UDP Usage Guidelines for Application Designers,Best Current Practice,html,rfcs\html\rfc5405.html,Yes
+,5395,Domain Name System (DNS) IANA Considerations ,Best Current Practice,txt,rfcs\txt\rfc5395.txt,Yes
+,5395,Domain Name System (DNS) IANA Considerations ,Best Current Practice,pdf,rfcs\pdf\rfc5395.pdf,Yes
+,5395,Domain Name System (DNS) IANA Considerations ,Best Current Practice,html,rfcs\html\rfc5395.html,Yes
+,5383,Deployment Considerations for Lemonade-Compliant Mobile Email,Best Current Practice,txt,rfcs\txt\rfc5383.txt,Yes
+,5383,Deployment Considerations for Lemonade-Compliant Mobile Email,Best Current Practice,pdf,rfcs\pdf\rfc5383.pdf,Yes
+,5383,Deployment Considerations for Lemonade-Compliant Mobile Email,Best Current Practice,html,rfcs\html\rfc5383.html,Yes
+,5382,NAT Behavioral Requirements for TCP,Best Current Practice,txt,rfcs\txt\rfc5382.txt,Yes
+,5382,NAT Behavioral Requirements for TCP,Best Current Practice,pdf,rfcs\pdf\rfc5382.pdf,Yes
+,5382,NAT Behavioral Requirements for TCP,Best Current Practice,html,rfcs\html\rfc5382.html,Yes
+,5378,Rights Contributors Provide to the IETF Trust,Best Current Practice,txt,rfcs\txt\rfc5378.txt,Yes
+,5378,Rights Contributors Provide to the IETF Trust,Best Current Practice,pdf,rfcs\pdf\rfc5378.pdf,Yes
+,5378,Rights Contributors Provide to the IETF Trust,Best Current Practice,html,rfcs\html\rfc5378.html,Yes
+,5359,Session Initiation Protocol Service Examples,Best Current Practice,txt,rfcs\txt\rfc5359.txt,Yes
+,5359,Session Initiation Protocol Service Examples,Best Current Practice,pdf,rfcs\pdf\rfc5359.pdf,Yes
+,5359,Session Initiation Protocol Service Examples,Best Current Practice,html,rfcs\html\rfc5359.html,Yes
+,5358,Preventing Use of Recursive Nameservers in Reflector Attacks,Best Current Practice,txt,rfcs\txt\rfc5358.txt,Yes
+,5358,Preventing Use of Recursive Nameservers in Reflector Attacks,Best Current Practice,pdf,rfcs\pdf\rfc5358.pdf,Yes
+,5358,Preventing Use of Recursive Nameservers in Reflector Attacks,Best Current Practice,html,rfcs\html\rfc5358.html,Yes
+,5342,IANA Considerations and IETF Protocol Usage for IEEE 802 Parameters,Best Current Practice,txt,rfcs\txt\rfc5342.txt,Yes
+,5342,IANA Considerations and IETF Protocol Usage for IEEE 802 Parameters,Best Current Practice,pdf,rfcs\pdf\rfc5342.pdf,Yes
+,5342,IANA Considerations and IETF Protocol Usage for IEEE 802 Parameters,Best Current Practice,html,rfcs\html\rfc5342.html,Yes
+,5266,Secure Connectivity and Mobility Using Mobile IPv4 and IKEv2 Mobility and Multihoming (MOBIKE),Best Current Practice,txt,rfcs\txt\rfc5266.txt,Yes
+,5266,Secure Connectivity and Mobility Using Mobile IPv4 and IKEv2 Mobility and Multihoming (MOBIKE),Best Current Practice,pdf,rfcs\pdf\rfc5266.pdf,Yes
+,5266,Secure Connectivity and Mobility Using Mobile IPv4 and IKEv2 Mobility and Multihoming (MOBIKE),Best Current Practice,html,rfcs\html\rfc5266.html,Yes
+,5249,Templates for Internet-Drafts Containing MIB Modules,Best Current Practice,txt,rfcs\txt\rfc5249.txt,Yes
+,5249,Templates for Internet-Drafts Containing MIB Modules,Best Current Practice,pdf,rfcs\pdf\rfc5249.pdf,Yes
+,5249,Templates for Internet-Drafts Containing MIB Modules,Best Current Practice,html,rfcs\html\rfc5249.html,Yes
+,5248,A Registry for SMTP Enhanced Mail System Status Codes,Best Current Practice,txt,rfcs\txt\rfc5248.txt,Yes
+,5248,A Registry for SMTP Enhanced Mail System Status Codes,Best Current Practice,pdf,rfcs\pdf\rfc5248.pdf,Yes
+,5248,A Registry for SMTP Enhanced Mail System Status Codes,Best Current Practice,html,rfcs\html\rfc5248.html,Yes
+,5237,IANA Allocation Guidelines for the Protocol Field,Best Current Practice,txt,rfcs\txt\rfc5237.txt,Yes
+,5237,IANA Allocation Guidelines for the Protocol Field,Best Current Practice,pdf,rfcs\pdf\rfc5237.pdf,Yes
+,5237,IANA Allocation Guidelines for the Protocol Field,Best Current Practice,html,rfcs\html\rfc5237.html,Yes
+,5226,Guidelines for Writing an IANA Considerations Section in RFCs,Best Current Practice,txt,rfcs\txt\rfc5226.txt,Yes
+,5226,Guidelines for Writing an IANA Considerations Section in RFCs,Best Current Practice,pdf,rfcs\pdf\rfc5226.pdf,Yes
+,5226,Guidelines for Writing an IANA Considerations Section in RFCs,Best Current Practice,html,rfcs\html\rfc5226.html,Yes
+,5137,ASCII Escaping of Unicode Characters,Best Current Practice,txt,rfcs\txt\rfc5137.txt,Yes
+,5137,ASCII Escaping of Unicode Characters,Best Current Practice,pdf,rfcs\pdf\rfc5137.pdf,Yes
+,5137,ASCII Escaping of Unicode Characters,Best Current Practice,html,rfcs\html\rfc5137.html,Yes
+,5135,IP Multicast Requirements for a Network Address Translator (NAT) and a Network Address Port Translator (NAPT),Best Current Practice,txt,rfcs\txt\rfc5135.txt,Yes
+,5135,IP Multicast Requirements for a Network Address Translator (NAT) and a Network Address Port Translator (NAPT),Best Current Practice,pdf,rfcs\pdf\rfc5135.pdf,Yes
+,5135,IP Multicast Requirements for a Network Address Translator (NAT) and a Network Address Port Translator (NAPT),Best Current Practice,html,rfcs\html\rfc5135.html,Yes
+,5068,Email Submission Operations: Access and Accountability Requirements,Best Current Practice,txt,rfcs\txt\rfc5068.txt,Yes
+,5068,Email Submission Operations: Access and Accountability Requirements,Best Current Practice,pdf,rfcs\pdf\rfc5068.pdf,Yes
+,5068,Email Submission Operations: Access and Accountability Requirements,Best Current Practice,html,rfcs\html\rfc5068.html,Yes
+,5033,Specifying New Congestion Control Algorithms,Best Current Practice,txt,rfcs\txt\rfc5033.txt,Yes
+,5033,Specifying New Congestion Control Algorithms,Best Current Practice,pdf,rfcs\pdf\rfc5033.pdf,Yes
+,5033,Specifying New Congestion Control Algorithms,Best Current Practice,html,rfcs\html\rfc5033.html,Yes
+,4962,"Guidance for Authentication, Authorization, and Accounting (AAA) Key Management",Best Current Practice,txt,rfcs\txt\rfc4962.txt,Yes
+,4962,"Guidance for Authentication, Authorization, and Accounting (AAA) Key Management",Best Current Practice,pdf,rfcs\pdf\rfc4962.pdf,Yes
+,4962,"Guidance for Authentication, Authorization, and Accounting (AAA) Key Management",Best Current Practice,html,rfcs\html\rfc4962.html,Yes
+,4961,Symmetric RTP / RTP Control Protocol (RTCP),Best Current Practice,txt,rfcs\txt\rfc4961.txt,Yes
+,4961,Symmetric RTP / RTP Control Protocol (RTCP),Best Current Practice,pdf,rfcs\pdf\rfc4961.pdf,Yes
+,4961,Symmetric RTP / RTP Control Protocol (RTCP),Best Current Practice,html,rfcs\html\rfc4961.html,Yes
+,4940,IANA Considerations for OSPF,Best Current Practice,txt,rfcs\txt\rfc4940.txt,Yes
+,4940,IANA Considerations for OSPF,Best Current Practice,pdf,rfcs\pdf\rfc4940.pdf,Yes
+,4940,IANA Considerations for OSPF,Best Current Practice,html,rfcs\html\rfc4940.html,Yes
+,4929,Change Process for Multiprotocol Label Switching (MPLS) and Generalized MPLS (GMPLS) Protocols and Procedures,Best Current Practice,txt,rfcs\txt\rfc4929.txt,Yes
+,4929,Change Process for Multiprotocol Label Switching (MPLS) and Generalized MPLS (GMPLS) Protocols and Procedures,Best Current Practice,pdf,rfcs\pdf\rfc4929.pdf,Yes
+,4929,Change Process for Multiprotocol Label Switching (MPLS) and Generalized MPLS (GMPLS) Protocols and Procedures,Best Current Practice,html,rfcs\html\rfc4929.html,Yes
+,4928,Avoiding Equal Cost Multipath Treatment in MPLS Networks,Best Current Practice,txt,rfcs\txt\rfc4928.txt,Yes
+,4928,Avoiding Equal Cost Multipath Treatment in MPLS Networks,Best Current Practice,pdf,rfcs\pdf\rfc4928.pdf,Yes
+,4928,Avoiding Equal Cost Multipath Treatment in MPLS Networks,Best Current Practice,html,rfcs\html\rfc4928.html,Yes
+,4897,Handling Normative References to Standards-Track Documents,Best Current Practice,txt,rfcs\txt\rfc4897.txt,Yes
+,4897,Handling Normative References to Standards-Track Documents,Best Current Practice,pdf,rfcs\pdf\rfc4897.pdf,Yes
+,4897,Handling Normative References to Standards-Track Documents,Best Current Practice,html,rfcs\html\rfc4897.html,Yes
+,4879,Clarification of the Third Party Disclosure Procedure in RFC 3979,Best Current Practice,txt,rfcs\txt\rfc4879.txt,Yes
+,4879,Clarification of the Third Party Disclosure Procedure in RFC 3979,Best Current Practice,pdf,rfcs\pdf\rfc4879.pdf,Yes
+,4879,Clarification of the Third Party Disclosure Procedure in RFC 3979,Best Current Practice,html,rfcs\html\rfc4879.html,Yes
+,4841,RFC 4181 Update to Recognize the IETF Trust,Best Current Practice,txt,rfcs\txt\rfc4841.txt,Yes
+,4841,RFC 4181 Update to Recognize the IETF Trust,Best Current Practice,pdf,rfcs\pdf\rfc4841.pdf,Yes
+,4841,RFC 4181 Update to Recognize the IETF Trust,Best Current Practice,html,rfcs\html\rfc4841.html,Yes
+,4787,Network Address Translation (NAT) Behavioral Requirements for Unicast UDP,Best Current Practice,txt,rfcs\txt\rfc4787.txt,Yes
+,4787,Network Address Translation (NAT) Behavioral Requirements for Unicast UDP,Best Current Practice,pdf,rfcs\pdf\rfc4787.pdf,Yes
+,4787,Network Address Translation (NAT) Behavioral Requirements for Unicast UDP,Best Current Practice,html,rfcs\html\rfc4787.html,Yes
+,4786,Operation of Anycast Services,Best Current Practice,txt,rfcs\txt\rfc4786.txt,Yes
+,4786,Operation of Anycast Services,Best Current Practice,pdf,rfcs\pdf\rfc4786.pdf,Yes
+,4786,Operation of Anycast Services,Best Current Practice,html,rfcs\html\rfc4786.html,Yes
+,4775,Procedures for Protocol Extensions and Variations,Best Current Practice,txt,rfcs\txt\rfc4775.txt,Yes
+,4775,Procedures for Protocol Extensions and Variations,Best Current Practice,pdf,rfcs\pdf\rfc4775.pdf,Yes
+,4775,Procedures for Protocol Extensions and Variations,Best Current Practice,html,rfcs\html\rfc4775.html,Yes
+,4774,Specifying Alternate Semantics for the Explicit Congestion Notification (ECN) Field,Best Current Practice,txt,rfcs\txt\rfc4774.txt,Yes
+,4774,Specifying Alternate Semantics for the Explicit Congestion Notification (ECN) Field,Best Current Practice,pdf,rfcs\pdf\rfc4774.pdf,Yes
+,4774,Specifying Alternate Semantics for the Explicit Congestion Notification (ECN) Field,Best Current Practice,html,rfcs\html\rfc4774.html,Yes
+,4748,RFC 3978 Update to Recognize the IETF Trust,Best Current Practice,txt,rfcs\txt\rfc4748.txt,Yes
+,4748,RFC 3978 Update to Recognize the IETF Trust,Best Current Practice,pdf,rfcs\pdf\rfc4748.pdf,Yes
+,4748,RFC 3978 Update to Recognize the IETF Trust,Best Current Practice,html,rfcs\html\rfc4748.html,Yes
+,4697,Observed DNS Resolution Misbehavior,Best Current Practice,txt,rfcs\txt\rfc4697.txt,Yes
+,4697,Observed DNS Resolution Misbehavior,Best Current Practice,pdf,rfcs\pdf\rfc4697.pdf,Yes
+,4697,Observed DNS Resolution Misbehavior,Best Current Practice,html,rfcs\html\rfc4697.html,Yes
+,4647,Matching of Language Tags,Best Current Practice,txt,rfcs\txt\rfc4647.txt,Yes
+,4647,Matching of Language Tags,Best Current Practice,pdf,rfcs\pdf\rfc4647.pdf,Yes
+,4647,Matching of Language Tags,Best Current Practice,html,rfcs\html\rfc4647.html,Yes
+,4646,Tags for Identifying Languages,Best Current Practice,txt,rfcs\txt\rfc4646.txt,Yes
+,4646,Tags for Identifying Languages,Best Current Practice,pdf,rfcs\pdf\rfc4646.pdf,Yes
+,4646,Tags for Identifying Languages,Best Current Practice,html,rfcs\html\rfc4646.html,Yes
+,4632,Classless Inter-domain Routing (CIDR): The Internet Address Assignment and Aggregation Plan,Best Current Practice,txt,rfcs\txt\rfc4632.txt,Yes
+,4632,Classless Inter-domain Routing (CIDR): The Internet Address Assignment and Aggregation Plan,Best Current Practice,pdf,rfcs\pdf\rfc4632.pdf,Yes
+,4632,Classless Inter-domain Routing (CIDR): The Internet Address Assignment and Aggregation Plan,Best Current Practice,html,rfcs\html\rfc4632.html,Yes
+,4611,Multicast Source Discovery Protocol (MSDP) Deployment Scenarios,Best Current Practice,txt,rfcs\txt\rfc4611.txt,Yes
+,4611,Multicast Source Discovery Protocol (MSDP) Deployment Scenarios,Best Current Practice,pdf,rfcs\pdf\rfc4611.pdf,Yes
+,4611,Multicast Source Discovery Protocol (MSDP) Deployment Scenarios,Best Current Practice,html,rfcs\html\rfc4611.html,Yes
+,4608,Source-Specific Protocol Independent Multicast in 232/8,Best Current Practice,txt,rfcs\txt\rfc4608.txt,Yes
+,4608,Source-Specific Protocol Independent Multicast in 232/8,Best Current Practice,pdf,rfcs\pdf\rfc4608.pdf,Yes
+,4608,Source-Specific Protocol Independent Multicast in 232/8,Best Current Practice,html,rfcs\html\rfc4608.html,Yes
+,4579,Session Initiation Protocol (SIP) Call Control - Conferencing for User Agents,Best Current Practice,txt,rfcs\txt\rfc4579.txt,Yes
+,4579,Session Initiation Protocol (SIP) Call Control - Conferencing for User Agents,Best Current Practice,pdf,rfcs\pdf\rfc4579.pdf,Yes
+,4579,Session Initiation Protocol (SIP) Call Control - Conferencing for User Agents,Best Current Practice,html,rfcs\html\rfc4579.html,Yes
+,4521,Considerations for Lightweight Directory Access Protocol (LDAP) Extensions,Best Current Practice,txt,rfcs\txt\rfc4521.txt,Yes
+,4521,Considerations for Lightweight Directory Access Protocol (LDAP) Extensions,Best Current Practice,pdf,rfcs\pdf\rfc4521.pdf,Yes
+,4521,Considerations for Lightweight Directory Access Protocol (LDAP) Extensions,Best Current Practice,html,rfcs\html\rfc4521.html,Yes
+,4520,Internet Assigned Numbers Authority (IANA) Considerations for the Lightweight Directory Access Protocol (LDAP),Best Current Practice,txt,rfcs\txt\rfc4520.txt,Yes
+,4520,Internet Assigned Numbers Authority (IANA) Considerations for the Lightweight Directory Access Protocol (LDAP),Best Current Practice,pdf,rfcs\pdf\rfc4520.pdf,Yes
+,4520,Internet Assigned Numbers Authority (IANA) Considerations for the Lightweight Directory Access Protocol (LDAP),Best Current Practice,html,rfcs\html\rfc4520.html,Yes
+,4497,Interworking between the Session Initiation Protocol (SIP) and QSIG,Best Current Practice,txt,rfcs\txt\rfc4497.txt,Yes
+,4497,Interworking between the Session Initiation Protocol (SIP) and QSIG,Best Current Practice,pdf,rfcs\pdf\rfc4497.pdf,Yes
+,4497,Interworking between the Session Initiation Protocol (SIP) and QSIG,Best Current Practice,html,rfcs\html\rfc4497.html,Yes
+,4446,IANA Allocations for Pseudowire Edge to Edge Emulation (PWE3),Best Current Practice,txt,rfcs\txt\rfc4446.txt,Yes
+,4446,IANA Allocations for Pseudowire Edge to Edge Emulation (PWE3),Best Current Practice,pdf,rfcs\pdf\rfc4446.pdf,Yes
+,4446,IANA Allocations for Pseudowire Edge to Edge Emulation (PWE3),Best Current Practice,html,rfcs\html\rfc4446.html,Yes
+,4395,Guidelines and Registration Procedures for New URI Schemes,Best Current Practice,txt,rfcs\txt\rfc4395.txt,Yes
+,4395,Guidelines and Registration Procedures for New URI Schemes,Best Current Practice,pdf,rfcs\pdf\rfc4395.pdf,Yes
+,4395,Guidelines and Registration Procedures for New URI Schemes,Best Current Practice,html,rfcs\html\rfc4395.html,Yes
+,4384,BGP Communities for Data Collection,Best Current Practice,txt,rfcs\txt\rfc4384.txt,Yes
+,4384,BGP Communities for Data Collection,Best Current Practice,pdf,rfcs\pdf\rfc4384.pdf,Yes
+,4384,BGP Communities for Data Collection,Best Current Practice,html,rfcs\html\rfc4384.html,Yes
+,4371,BCP 101 Update for IPR Trust,Best Current Practice,txt,rfcs\txt\rfc4371.txt,Yes
+,4371,BCP 101 Update for IPR Trust,Best Current Practice,pdf,rfcs\pdf\rfc4371.pdf,Yes
+,4371,BCP 101 Update for IPR Trust,Best Current Practice,html,rfcs\html\rfc4371.html,Yes
+,4333,The IETF Administrative Oversight Committee (IAOC) Member Selection Guidelines and Process,Best Current Practice,txt,rfcs\txt\rfc4333.txt,Yes
+,4333,The IETF Administrative Oversight Committee (IAOC) Member Selection Guidelines and Process,Best Current Practice,pdf,rfcs\pdf\rfc4333.pdf,Yes
+,4333,The IETF Administrative Oversight Committee (IAOC) Member Selection Guidelines and Process,Best Current Practice,html,rfcs\html\rfc4333.html,Yes
+,4289,Multipurpose Internet Mail Extensions (MIME) Part Four: Registration Procedures,Best Current Practice,txt,rfcs\txt\rfc4289.txt,Yes
+,4289,Multipurpose Internet Mail Extensions (MIME) Part Four: Registration Procedures,Best Current Practice,pdf,rfcs\pdf\rfc4289.pdf,Yes
+,4289,Multipurpose Internet Mail Extensions (MIME) Part Four: Registration Procedures,Best Current Practice,html,rfcs\html\rfc4289.html,Yes
+,4288,Media Type Specifications and Registration Procedures,Best Current Practice,txt,rfcs\txt\rfc4288.txt,Yes
+,4288,Media Type Specifications and Registration Procedures,Best Current Practice,pdf,rfcs\pdf\rfc4288.pdf,Yes
+,4288,Media Type Specifications and Registration Procedures,Best Current Practice,html,rfcs\html\rfc4288.html,Yes
+,4222,Prioritized Treatment of Specific OSPF Version 2 Packets and Congestion Avoidance,Best Current Practice,txt,rfcs\txt\rfc4222.txt,Yes
+,4222,Prioritized Treatment of Specific OSPF Version 2 Packets and Congestion Avoidance,Best Current Practice,pdf,rfcs\pdf\rfc4222.pdf,Yes
+,4222,Prioritized Treatment of Specific OSPF Version 2 Packets and Congestion Avoidance,Best Current Practice,html,rfcs\html\rfc4222.html,Yes
+,4181,Guidelines for Authors and Reviewers of MIB Documents,Best Current Practice,txt,rfcs\txt\rfc4181.txt,Yes
+,4181,Guidelines for Authors and Reviewers of MIB Documents,Best Current Practice,pdf,rfcs\pdf\rfc4181.pdf,Yes
+,4181,Guidelines for Authors and Reviewers of MIB Documents,Best Current Practice,html,rfcs\html\rfc4181.html,Yes
+,4170,Tunneling Multiplexed Compressed RTP (TCRTP),Best Current Practice,txt,rfcs\txt\rfc4170.txt,Yes
+,4170,Tunneling Multiplexed Compressed RTP (TCRTP),Best Current Practice,pdf,rfcs\pdf\rfc4170.pdf,Yes
+,4170,Tunneling Multiplexed Compressed RTP (TCRTP),Best Current Practice,html,rfcs\html\rfc4170.html,Yes
+,4159,"Deprecation of ""ip6.int""",Best Current Practice,txt,rfcs\txt\rfc4159.txt,Yes
+,4159,"Deprecation of ""ip6.int""",Best Current Practice,pdf,rfcs\pdf\rfc4159.pdf,Yes
+,4159,"Deprecation of ""ip6.int""",Best Current Practice,html,rfcs\html\rfc4159.html,Yes
+,4148,IP Performance Metrics (IPPM) Metrics Registry,Best Current Practice,txt,rfcs\txt\rfc4148.txt,Yes
+,4148,IP Performance Metrics (IPPM) Metrics Registry,Best Current Practice,pdf,rfcs\pdf\rfc4148.pdf,Yes
+,4148,IP Performance Metrics (IPPM) Metrics Registry,Best Current Practice,html,rfcs\html\rfc4148.html,Yes
+,4107,Guidelines for Cryptographic Key Management,Best Current Practice,txt,rfcs\txt\rfc4107.txt,Yes
+,4107,Guidelines for Cryptographic Key Management,Best Current Practice,pdf,rfcs\pdf\rfc4107.pdf,Yes
+,4107,Guidelines for Cryptographic Key Management,Best Current Practice,html,rfcs\html\rfc4107.html,Yes
+,4086,Randomness Requirements for Security,Best Current Practice,txt,rfcs\txt\rfc4086.txt,Yes
+,4086,Randomness Requirements for Security,Best Current Practice,pdf,rfcs\pdf\rfc4086.pdf,Yes
+,4086,Randomness Requirements for Security,Best Current Practice,html,rfcs\html\rfc4086.html,Yes
+,4085,Embedding Globally-Routable Internet Addresses Considered Harmful,Best Current Practice,txt,rfcs\txt\rfc4085.txt,Yes
+,4085,Embedding Globally-Routable Internet Addresses Considered Harmful,Best Current Practice,pdf,rfcs\pdf\rfc4085.pdf,Yes
+,4085,Embedding Globally-Routable Internet Addresses Considered Harmful,Best Current Practice,html,rfcs\html\rfc4085.html,Yes
+,4084,Terminology for Describing Internet Connectivity,Best Current Practice,txt,rfcs\txt\rfc4084.txt,Yes
+,4084,Terminology for Describing Internet Connectivity,Best Current Practice,pdf,rfcs\pdf\rfc4084.pdf,Yes
+,4084,Terminology for Describing Internet Connectivity,Best Current Practice,html,rfcs\html\rfc4084.html,Yes
+,4071,Structure of the IETF Administrative Support Activity (IASA),Best Current Practice,txt,rfcs\txt\rfc4071.txt,Yes
+,4071,Structure of the IETF Administrative Support Activity (IASA),Best Current Practice,pdf,rfcs\pdf\rfc4071.pdf,Yes
+,4071,Structure of the IETF Administrative Support Activity (IASA),Best Current Practice,html,rfcs\html\rfc4071.html,Yes
+,4053,Procedures for Handling Liaison Statements to and from the IETF,Best Current Practice,txt,rfcs\txt\rfc4053.txt,Yes
+,4053,Procedures for Handling Liaison Statements to and from the IETF,Best Current Practice,pdf,rfcs\pdf\rfc4053.pdf,Yes
+,4053,Procedures for Handling Liaison Statements to and from the IETF,Best Current Practice,html,rfcs\html\rfc4053.html,Yes
+,4052,IAB Processes for Management of IETF Liaison Relationships,Best Current Practice,txt,rfcs\txt\rfc4052.txt,Yes
+,4052,IAB Processes for Management of IETF Liaison Relationships,Best Current Practice,pdf,rfcs\pdf\rfc4052.pdf,Yes
+,4052,IAB Processes for Management of IETF Liaison Relationships,Best Current Practice,html,rfcs\html\rfc4052.html,Yes
+,4020, Early IANA Allocation of Standards Track Code Points ,Best Current Practice,txt,rfcs\txt\rfc4020.txt,Yes
+,4020, Early IANA Allocation of Standards Track Code Points ,Best Current Practice,pdf,rfcs\pdf\rfc4020.pdf,Yes
+,4020, Early IANA Allocation of Standards Track Code Points ,Best Current Practice,html,rfcs\html\rfc4020.html,Yes
+,3979,Intellectual Property Rights in IETF Technology ,Best Current Practice,txt,rfcs\txt\rfc3979.txt,Yes
+,3979,Intellectual Property Rights in IETF Technology ,Best Current Practice,pdf,rfcs\pdf\rfc3979.pdf,Yes
+,3979,Intellectual Property Rights in IETF Technology ,Best Current Practice,html,rfcs\html\rfc3979.html,Yes
+,3978, IETF Rights in Contributions ,Best Current Practice,txt,rfcs\txt\rfc3978.txt,Yes
+,3978, IETF Rights in Contributions ,Best Current Practice,pdf,rfcs\pdf\rfc3978.pdf,Yes
+,3978, IETF Rights in Contributions ,Best Current Practice,html,rfcs\html\rfc3978.html,Yes
+,3969, The Internet Assigned Number Authority (IANA) Uniform Resource Identifier (URI) Parameter Registry for the Session Initiation Protocol (SIP) ,Best Current Practice,txt,rfcs\txt\rfc3969.txt,Yes
+,3969, The Internet Assigned Number Authority (IANA) Uniform Resource Identifier (URI) Parameter Registry for the Session Initiation Protocol (SIP) ,Best Current Practice,pdf,rfcs\pdf\rfc3969.pdf,Yes
+,3969, The Internet Assigned Number Authority (IANA) Uniform Resource Identifier (URI) Parameter Registry for the Session Initiation Protocol (SIP) ,Best Current Practice,html,rfcs\html\rfc3969.html,Yes
+,3968, The Internet Assigned Number Authority (IANA) Header Field Parameter Registry for the Session Initiation Protocol (SIP) ,Best Current Practice,txt,rfcs\txt\rfc3968.txt,Yes
+,3968, The Internet Assigned Number Authority (IANA) Header Field Parameter Registry for the Session Initiation Protocol (SIP) ,Best Current Practice,pdf,rfcs\pdf\rfc3968.pdf,Yes
+,3968, The Internet Assigned Number Authority (IANA) Header Field Parameter Registry for the Session Initiation Protocol (SIP) ,Best Current Practice,html,rfcs\html\rfc3968.html,Yes
+,3967, Clarifying when Standards Track Documents may Refer Normatively to Documents at a Lower Level ,Best Current Practice,txt,rfcs\txt\rfc3967.txt,Yes
+,3967, Clarifying when Standards Track Documents may Refer Normatively to Documents at a Lower Level ,Best Current Practice,pdf,rfcs\pdf\rfc3967.pdf,Yes
+,3967, Clarifying when Standards Track Documents may Refer Normatively to Documents at a Lower Level ,Best Current Practice,html,rfcs\html\rfc3967.html,Yes
+,3936, Procedures for Modifying the Resource reSerVation Protocol (RSVP) ,Best Current Practice,txt,rfcs\txt\rfc3936.txt,Yes
+,3936, Procedures for Modifying the Resource reSerVation Protocol (RSVP) ,Best Current Practice,pdf,rfcs\pdf\rfc3936.pdf,Yes
+,3936, Procedures for Modifying the Resource reSerVation Protocol (RSVP) ,Best Current Practice,html,rfcs\html\rfc3936.html,Yes
+,3935, A Mission Statement for the IETF ,Best Current Practice,txt,rfcs\txt\rfc3935.txt,Yes
+,3935, A Mission Statement for the IETF ,Best Current Practice,pdf,rfcs\pdf\rfc3935.pdf,Yes
+,3935, A Mission Statement for the IETF ,Best Current Practice,html,rfcs\html\rfc3935.html,Yes
+,3934,Updates to RFC 2418 Regarding the Management of IETF Mailing Lists ,Best Current Practice,txt,rfcs\txt\rfc3934.txt,Yes
+,3934,Updates to RFC 2418 Regarding the Management of IETF Mailing Lists ,Best Current Practice,pdf,rfcs\pdf\rfc3934.pdf,Yes
+,3934,Updates to RFC 2418 Regarding the Management of IETF Mailing Lists ,Best Current Practice,html,rfcs\html\rfc3934.html,Yes
+,3933, A Model for IETF Process Experiments ,Best Current Practice,txt,rfcs\txt\rfc3933.txt,Yes
+,3933, A Model for IETF Process Experiments ,Best Current Practice,pdf,rfcs\pdf\rfc3933.pdf,Yes
+,3933, A Model for IETF Process Experiments ,Best Current Practice,html,rfcs\html\rfc3933.html,Yes
+,3932,The IESG and RFC Editor Documents: Procedures ,Best Current Practice,txt,rfcs\txt\rfc3932.txt,Yes
+,3932,The IESG and RFC Editor Documents: Procedures ,Best Current Practice,pdf,rfcs\pdf\rfc3932.pdf,Yes
+,3932,The IESG and RFC Editor Documents: Procedures ,Best Current Practice,html,rfcs\html\rfc3932.html,Yes
+,3901, DNS IPv6 Transport Operational Guidelines ,Best Current Practice,txt,rfcs\txt\rfc3901.txt,Yes
+,3901, DNS IPv6 Transport Operational Guidelines ,Best Current Practice,pdf,rfcs\pdf\rfc3901.pdf,Yes
+,3901, DNS IPv6 Transport Operational Guidelines ,Best Current Practice,html,rfcs\html\rfc3901.html,Yes
+,3864, Registration Procedures for Message Header Fields ,Best Current Practice,txt,rfcs\txt\rfc3864.txt,Yes
+,3864, Registration Procedures for Message Header Fields ,Best Current Practice,pdf,rfcs\pdf\rfc3864.pdf,Yes
+,3864, Registration Procedures for Message Header Fields ,Best Current Practice,html,rfcs\html\rfc3864.html,Yes
+,3819, Advice for Internet Subnetwork Designers ,Best Current Practice,txt,rfcs\txt\rfc3819.txt,Yes
+,3819, Advice for Internet Subnetwork Designers ,Best Current Practice,pdf,rfcs\pdf\rfc3819.pdf,Yes
+,3819, Advice for Internet Subnetwork Designers ,Best Current Practice,html,rfcs\html\rfc3819.html,Yes
+,3818, IANA Considerations for the Point-to-Point Protocol (PPP) ,Best Current Practice,txt,rfcs\txt\rfc3818.txt,Yes
+,3818, IANA Considerations for the Point-to-Point Protocol (PPP) ,Best Current Practice,pdf,rfcs\pdf\rfc3818.pdf,Yes
+,3818, IANA Considerations for the Point-to-Point Protocol (PPP) ,Best Current Practice,html,rfcs\html\rfc3818.html,Yes
+,3785, Use of Interior Gateway Protocol (IGP) Metric as a second MPLS Traffic Engineering (TE) Metric ,Best Current Practice,txt,rfcs\txt\rfc3785.txt,Yes
+,3785, Use of Interior Gateway Protocol (IGP) Metric as a second MPLS Traffic Engineering (TE) Metric ,Best Current Practice,pdf,rfcs\pdf\rfc3785.pdf,Yes
+,3785, Use of Interior Gateway Protocol (IGP) Metric as a second MPLS Traffic Engineering (TE) Metric ,Best Current Practice,html,rfcs\html\rfc3785.html,Yes
+,3777,"IAB and IESG Selection, Confirmation, and Recall Process: Operation of the Nominating and Recall Committees ",Best Current Practice,txt,rfcs\txt\rfc3777.txt,Yes
+,3777,"IAB and IESG Selection, Confirmation, and Recall Process: Operation of the Nominating and Recall Committees ",Best Current Practice,pdf,rfcs\pdf\rfc3777.pdf,Yes
+,3777,"IAB and IESG Selection, Confirmation, and Recall Process: Operation of the Nominating and Recall Committees ",Best Current Practice,html,rfcs\html\rfc3777.html,Yes
+,3766, Determining Strengths For Public Keys Used For Exchanging Symmetric Keys ,Best Current Practice,txt,rfcs\txt\rfc3766.txt,Yes
+,3766, Determining Strengths For Public Keys Used For Exchanging Symmetric Keys ,Best Current Practice,pdf,rfcs\pdf\rfc3766.pdf,Yes
+,3766, Determining Strengths For Public Keys Used For Exchanging Symmetric Keys ,Best Current Practice,html,rfcs\html\rfc3766.html,Yes
+,3725, Best Current Practices for Third Party Call Control (3pcc) in the Session Initiation Protocol (SIP) ,Best Current Practice,txt,rfcs\txt\rfc3725.txt,Yes
+,3725, Best Current Practices for Third Party Call Control (3pcc) in the Session Initiation Protocol (SIP) ,Best Current Practice,pdf,rfcs\pdf\rfc3725.pdf,Yes
+,3725, Best Current Practices for Third Party Call Control (3pcc) in the Session Initiation Protocol (SIP) ,Best Current Practice,html,rfcs\html\rfc3725.html,Yes
+,3704,Ingress Filtering for Multihomed Networks ,Best Current Practice,txt,rfcs\txt\rfc3704.txt,Yes
+,3704,Ingress Filtering for Multihomed Networks ,Best Current Practice,pdf,rfcs\pdf\rfc3704.pdf,Yes
+,3704,Ingress Filtering for Multihomed Networks ,Best Current Practice,html,rfcs\html\rfc3704.html,Yes
+,3692, Assigning Experimental and Testing Numbers Considered Useful ,Best Current Practice,txt,rfcs\txt\rfc3692.txt,Yes
+,3692, Assigning Experimental and Testing Numbers Considered Useful ,Best Current Practice,pdf,rfcs\pdf\rfc3692.pdf,Yes
+,3692, Assigning Experimental and Testing Numbers Considered Useful ,Best Current Practice,html,rfcs\html\rfc3692.html,Yes
+,3688, The IETF XML Registry ,Best Current Practice,txt,rfcs\txt\rfc3688.txt,Yes
+,3688, The IETF XML Registry ,Best Current Practice,pdf,rfcs\pdf\rfc3688.pdf,Yes
+,3688, The IETF XML Registry ,Best Current Practice,html,rfcs\html\rfc3688.html,Yes
+,3683,A Practice for Revoking Posting Rights to IETF Mailing Lists ,Best Current Practice,txt,rfcs\txt\rfc3683.txt,Yes
+,3683,A Practice for Revoking Posting Rights to IETF Mailing Lists ,Best Current Practice,pdf,rfcs\pdf\rfc3683.pdf,Yes
+,3683,A Practice for Revoking Posting Rights to IETF Mailing Lists ,Best Current Practice,html,rfcs\html\rfc3683.html,Yes
+,3681, Delegation of E.F.F.3.IP6.ARPA ,Best Current Practice,txt,rfcs\txt\rfc3681.txt,Yes
+,3681, Delegation of E.F.F.3.IP6.ARPA ,Best Current Practice,pdf,rfcs\pdf\rfc3681.pdf,Yes
+,3681, Delegation of E.F.F.3.IP6.ARPA ,Best Current Practice,html,rfcs\html\rfc3681.html,Yes
+,3677, IETF ISOC Board of Trustee Appointment Procedures ,Best Current Practice,txt,rfcs\txt\rfc3677.txt,Yes
+,3677, IETF ISOC Board of Trustee Appointment Procedures ,Best Current Practice,pdf,rfcs\pdf\rfc3677.pdf,Yes
+,3677, IETF ISOC Board of Trustee Appointment Procedures ,Best Current Practice,html,rfcs\html\rfc3677.html,Yes
+,3668, Intellectual Property Rights in IETF Technology ,Best Current Practice,txt,rfcs\txt\rfc3668.txt,Yes
+,3668, Intellectual Property Rights in IETF Technology ,Best Current Practice,pdf,rfcs\pdf\rfc3668.pdf,Yes
+,3668, Intellectual Property Rights in IETF Technology ,Best Current Practice,html,rfcs\html\rfc3668.html,Yes
+,3667, IETF Rights in Contributions ,Best Current Practice,txt,rfcs\txt\rfc3667.txt,Yes
+,3667, IETF Rights in Contributions ,Best Current Practice,pdf,rfcs\pdf\rfc3667.pdf,Yes
+,3667, IETF Rights in Contributions ,Best Current Practice,html,rfcs\html\rfc3667.html,Yes
+,3666, Session Initiation Protocol (SIP) Public Switched Telephone Network (PSTN) Call Flows ,Best Current Practice,txt,rfcs\txt\rfc3666.txt,Yes
+,3666, Session Initiation Protocol (SIP) Public Switched Telephone Network (PSTN) Call Flows ,Best Current Practice,pdf,rfcs\pdf\rfc3666.pdf,Yes
+,3666, Session Initiation Protocol (SIP) Public Switched Telephone Network (PSTN) Call Flows ,Best Current Practice,html,rfcs\html\rfc3666.html,Yes
+,3665, Session Initiation Protocol (SIP) Basic Call Flow Examples ,Best Current Practice,txt,rfcs\txt\rfc3665.txt,Yes
+,3665, Session Initiation Protocol (SIP) Basic Call Flow Examples ,Best Current Practice,pdf,rfcs\pdf\rfc3665.pdf,Yes
+,3665, Session Initiation Protocol (SIP) Basic Call Flow Examples ,Best Current Practice,html,rfcs\html\rfc3665.html,Yes
+,3584," Coexistence between Version 1, Version 2, and Version 3 of the Internet-standard Network Management Framework ",Best Current Practice,txt,rfcs\txt\rfc3584.txt,Yes
+,3584," Coexistence between Version 1, Version 2, and Version 3 of the Internet-standard Network Management Framework ",Best Current Practice,pdf,rfcs\pdf\rfc3584.pdf,Yes
+,3584," Coexistence between Version 1, Version 2, and Version 3 of the Internet-standard Network Management Framework ",Best Current Practice,html,rfcs\html\rfc3584.html,Yes
+,3553, An IETF URN Sub-namespace for Registered Protocol Parameters ,Best Current Practice,txt,rfcs\txt\rfc3553.txt,Yes
+,3553, An IETF URN Sub-namespace for Registered Protocol Parameters ,Best Current Practice,pdf,rfcs\pdf\rfc3553.pdf,Yes
+,3553, An IETF URN Sub-namespace for Registered Protocol Parameters ,Best Current Practice,html,rfcs\html\rfc3553.html,Yes
+,3552, Guidelines for Writing RFC Text on Security Considerations ,Best Current Practice,txt,rfcs\txt\rfc3552.txt,Yes
+,3552, Guidelines for Writing RFC Text on Security Considerations ,Best Current Practice,pdf,rfcs\pdf\rfc3552.pdf,Yes
+,3552, Guidelines for Writing RFC Text on Security Considerations ,Best Current Practice,html,rfcs\html\rfc3552.html,Yes
+,3481, TCP over Second (2.5G) and Third (3G) Generation Wireless Networks ,Best Current Practice,txt,rfcs\txt\rfc3481.txt,Yes
+,3481, TCP over Second (2.5G) and Third (3G) Generation Wireless Networks ,Best Current Practice,pdf,rfcs\pdf\rfc3481.pdf,Yes
+,3481, TCP over Second (2.5G) and Third (3G) Generation Wireless Networks ,Best Current Practice,html,rfcs\html\rfc3481.html,Yes
+,3470, Guidelines for the Use of Extensible Markup Language (XML) within IETF Protocols ,Best Current Practice,txt,rfcs\txt\rfc3470.txt,Yes
+,3470, Guidelines for the Use of Extensible Markup Language (XML) within IETF Protocols ,Best Current Practice,pdf,rfcs\pdf\rfc3470.pdf,Yes
+,3470, Guidelines for the Use of Extensible Markup Language (XML) within IETF Protocols ,Best Current Practice,html,rfcs\html\rfc3470.html,Yes
+,3449, TCP Performance Implications of Network Path Asymmetry ,Best Current Practice,txt,rfcs\txt\rfc3449.txt,Yes
+,3449, TCP Performance Implications of Network Path Asymmetry ,Best Current Practice,pdf,rfcs\pdf\rfc3449.pdf,Yes
+,3449, TCP Performance Implications of Network Path Asymmetry ,Best Current Practice,html,rfcs\html\rfc3449.html,Yes
+,3438, Layer Two Tunneling Protocol (L2TP) Internet Assigned Numbers Authority (IANA) Considerations Update ,Best Current Practice,txt,rfcs\txt\rfc3438.txt,Yes
+,3438, Layer Two Tunneling Protocol (L2TP) Internet Assigned Numbers Authority (IANA) Considerations Update ,Best Current Practice,pdf,rfcs\pdf\rfc3438.pdf,Yes
+,3438, Layer Two Tunneling Protocol (L2TP) Internet Assigned Numbers Authority (IANA) Considerations Update ,Best Current Practice,html,rfcs\html\rfc3438.html,Yes
+,3427, Change Process for the Session Initiation Protocol (SIP) ,Best Current Practice,txt,rfcs\txt\rfc3427.txt,Yes
+,3427, Change Process for the Session Initiation Protocol (SIP) ,Best Current Practice,pdf,rfcs\pdf\rfc3427.pdf,Yes
+,3427, Change Process for the Session Initiation Protocol (SIP) ,Best Current Practice,html,rfcs\html\rfc3427.html,Yes
+,3406, Uniform Resource Names (URN) Namespace Definition Mechanisms ,Best Current Practice,txt,rfcs\txt\rfc3406.txt,Yes
+,3406, Uniform Resource Names (URN) Namespace Definition Mechanisms ,Best Current Practice,pdf,rfcs\pdf\rfc3406.pdf,Yes
+,3406, Uniform Resource Names (URN) Namespace Definition Mechanisms ,Best Current Practice,html,rfcs\html\rfc3406.html,Yes
+,3405, Dynamic Delegation Discovery System (DDDS) Part Five: URI.ARPA Assignment Procedures ,Best Current Practice,txt,rfcs\txt\rfc3405.txt,Yes
+,3405, Dynamic Delegation Discovery System (DDDS) Part Five: URI.ARPA Assignment Procedures ,Best Current Practice,pdf,rfcs\pdf\rfc3405.pdf,Yes
+,3405, Dynamic Delegation Discovery System (DDDS) Part Five: URI.ARPA Assignment Procedures ,Best Current Practice,html,rfcs\html\rfc3405.html,Yes
+,3383, Internet Assigned Numbers Authority (IANA) Considerations for the Lightweight Directory Access Protocol (LDAP) ,Best Current Practice,txt,rfcs\txt\rfc3383.txt,Yes
+,3383, Internet Assigned Numbers Authority (IANA) Considerations for the Lightweight Directory Access Protocol (LDAP) ,Best Current Practice,pdf,rfcs\pdf\rfc3383.pdf,Yes
+,3383, Internet Assigned Numbers Authority (IANA) Considerations for the Lightweight Directory Access Protocol (LDAP) ,Best Current Practice,html,rfcs\html\rfc3383.html,Yes
+,3372, Session Initiation Protocol for Telephones (SIP-T): Context and Architectures ,Best Current Practice,txt,rfcs\txt\rfc3372.txt,Yes
+,3372, Session Initiation Protocol for Telephones (SIP-T): Context and Architectures ,Best Current Practice,pdf,rfcs\pdf\rfc3372.pdf,Yes
+,3372, Session Initiation Protocol for Telephones (SIP-T): Context and Architectures ,Best Current Practice,html,rfcs\html\rfc3372.html,Yes
+,3366, Advice to link designers on link Automatic Repeat reQuest (ARQ) ,Best Current Practice,txt,rfcs\txt\rfc3366.txt,Yes
+,3366, Advice to link designers on link Automatic Repeat reQuest (ARQ) ,Best Current Practice,pdf,rfcs\pdf\rfc3366.pdf,Yes
+,3366, Advice to link designers on link Automatic Repeat reQuest (ARQ) ,Best Current Practice,html,rfcs\html\rfc3366.html,Yes
+,3365, Strong Security Requirements for Internet Engineering Task Force Standard Protocols ,Best Current Practice,txt,rfcs\txt\rfc3365.txt,Yes
+,3365, Strong Security Requirements for Internet Engineering Task Force Standard Protocols ,Best Current Practice,pdf,rfcs\pdf\rfc3365.pdf,Yes
+,3365, Strong Security Requirements for Internet Engineering Task Force Standard Protocols ,Best Current Practice,html,rfcs\html\rfc3365.html,Yes
+,3360, Inappropriate TCP Resets Considered Harmful ,Best Current Practice,txt,rfcs\txt\rfc3360.txt,Yes
+,3360, Inappropriate TCP Resets Considered Harmful ,Best Current Practice,pdf,rfcs\pdf\rfc3360.pdf,Yes
+,3360, Inappropriate TCP Resets Considered Harmful ,Best Current Practice,html,rfcs\html\rfc3360.html,Yes
+,3349, A Transient Prefix for Identifying Profiles under Development by the Working Groups of the Internet Engineering Task Force ,Best Current Practice,txt,rfcs\txt\rfc3349.txt,Yes
+,3349, A Transient Prefix for Identifying Profiles under Development by the Working Groups of the Internet Engineering Task Force ,Best Current Practice,pdf,rfcs\pdf\rfc3349.pdf,Yes
+,3349, A Transient Prefix for Identifying Profiles under Development by the Working Groups of the Internet Engineering Task Force ,Best Current Practice,html,rfcs\html\rfc3349.html,Yes
+,3233, Defining the IETF ,Best Current Practice,txt,rfcs\txt\rfc3233.txt,Yes
+,3233, Defining the IETF ,Best Current Practice,pdf,rfcs\pdf\rfc3233.pdf,Yes
+,3233, Defining the IETF ,Best Current Practice,html,rfcs\html\rfc3233.html,Yes
+,3228, IANA Considerations for IPv4 Internet Group Management Protocol (IGMP) ,Best Current Practice,txt,rfcs\txt\rfc3228.txt,Yes
+,3228, IANA Considerations for IPv4 Internet Group Management Protocol (IGMP) ,Best Current Practice,pdf,rfcs\pdf\rfc3228.pdf,Yes
+,3228, IANA Considerations for IPv4 Internet Group Management Protocol (IGMP) ,Best Current Practice,html,rfcs\html\rfc3228.html,Yes
+,3227, Guidelines for Evidence Collection and Archiving ,Best Current Practice,txt,rfcs\txt\rfc3227.txt,Yes
+,3227, Guidelines for Evidence Collection and Archiving ,Best Current Practice,pdf,rfcs\pdf\rfc3227.pdf,Yes
+,3227, Guidelines for Evidence Collection and Archiving ,Best Current Practice,html,rfcs\html\rfc3227.html,Yes
+,3205, On the use of HTTP as a Substrate ,Best Current Practice,txt,rfcs\txt\rfc3205.txt,Yes
+,3205, On the use of HTTP as a Substrate ,Best Current Practice,pdf,rfcs\pdf\rfc3205.pdf,Yes
+,3205, On the use of HTTP as a Substrate ,Best Current Practice,html,rfcs\html\rfc3205.html,Yes
+,3184, IETF Guidelines for Conduct ,Best Current Practice,txt,rfcs\txt\rfc3184.txt,Yes
+,3184, IETF Guidelines for Conduct ,Best Current Practice,pdf,rfcs\pdf\rfc3184.pdf,Yes
+,3184, IETF Guidelines for Conduct ,Best Current Practice,html,rfcs\html\rfc3184.html,Yes
+,3180, GLOP Addressing in 233/8 ,Best Current Practice,txt,rfcs\txt\rfc3180.txt,Yes
+,3180, GLOP Addressing in 233/8 ,Best Current Practice,pdf,rfcs\pdf\rfc3180.pdf,Yes
+,3180, GLOP Addressing in 233/8 ,Best Current Practice,html,rfcs\html\rfc3180.html,Yes
+,3172," Management Guidelines & Operational Requirements for the Address and Routing Parameter Area Domain (""arpa"") ",Best Current Practice,txt,rfcs\txt\rfc3172.txt,Yes
+,3172," Management Guidelines & Operational Requirements for the Address and Routing Parameter Area Domain (""arpa"") ",Best Current Practice,pdf,rfcs\pdf\rfc3172.pdf,Yes
+,3172," Management Guidelines & Operational Requirements for the Address and Routing Parameter Area Domain (""arpa"") ",Best Current Practice,html,rfcs\html\rfc3172.html,Yes
+,3171, IANA Guidelines for IPv4 Multicast Address Assignments ,Best Current Practice,txt,rfcs\txt\rfc3171.txt,Yes
+,3171, IANA Guidelines for IPv4 Multicast Address Assignments ,Best Current Practice,pdf,rfcs\pdf\rfc3171.pdf,Yes
+,3171, IANA Guidelines for IPv4 Multicast Address Assignments ,Best Current Practice,html,rfcs\html\rfc3171.html,Yes
+,3155, End-to-end Performance Implications of Links with Errors ,Best Current Practice,txt,rfcs\txt\rfc3155.txt,Yes
+,3155, End-to-end Performance Implications of Links with Errors ,Best Current Practice,pdf,rfcs\pdf\rfc3155.pdf,Yes
+,3155, End-to-end Performance Implications of Links with Errors ,Best Current Practice,html,rfcs\html\rfc3155.html,Yes
+,3152, Delegation of IP6.ARPA ,Best Current Practice,txt,rfcs\txt\rfc3152.txt,Yes
+,3152, Delegation of IP6.ARPA ,Best Current Practice,pdf,rfcs\pdf\rfc3152.pdf,Yes
+,3152, Delegation of IP6.ARPA ,Best Current Practice,html,rfcs\html\rfc3152.html,Yes
+,3150, End-to-end Performance Implications of Slow Links ,Best Current Practice,txt,rfcs\txt\rfc3150.txt,Yes
+,3150, End-to-end Performance Implications of Slow Links ,Best Current Practice,pdf,rfcs\pdf\rfc3150.pdf,Yes
+,3150, End-to-end Performance Implications of Slow Links ,Best Current Practice,html,rfcs\html\rfc3150.html,Yes
+,3066, Tags for the Identification of Languages ,Best Current Practice,txt,rfcs\txt\rfc3066.txt,Yes
+,3066, Tags for the Identification of Languages ,Best Current Practice,pdf,rfcs\pdf\rfc3066.pdf,Yes
+,3066, Tags for the Identification of Languages ,Best Current Practice,html,rfcs\html\rfc3066.html,Yes
+,3013, Recommended Internet Service Provider Security Services and Procedures ,Best Current Practice,txt,rfcs\txt\rfc3013.txt,Yes
+,3013, Recommended Internet Service Provider Security Services and Procedures ,Best Current Practice,pdf,rfcs\pdf\rfc3013.pdf,Yes
+,3013, Recommended Internet Service Provider Security Services and Procedures ,Best Current Practice,html,rfcs\html\rfc3013.html,Yes
+,3005,IETF Discussion List Charter ,Best Current Practice,txt,rfcs\txt\rfc3005.txt,Yes
+,3005,IETF Discussion List Charter ,Best Current Practice,pdf,rfcs\pdf\rfc3005.pdf,Yes
+,3005,IETF Discussion List Charter ,Best Current Practice,html,rfcs\html\rfc3005.html,Yes
+,2978, IANA Charset Registration Procedures ,Best Current Practice,txt,rfcs\txt\rfc2978.txt,Yes
+,2978, IANA Charset Registration Procedures ,Best Current Practice,pdf,rfcs\pdf\rfc2978.pdf,Yes
+,2978, IANA Charset Registration Procedures ,Best Current Practice,html,rfcs\html\rfc2978.html,Yes
+,2964, Use of HTTP State Management ,Best Current Practice,txt,rfcs\txt\rfc2964.txt,Yes
+,2964, Use of HTTP State Management ,Best Current Practice,pdf,rfcs\pdf\rfc2964.pdf,Yes
+,2964, Use of HTTP State Management ,Best Current Practice,html,rfcs\html\rfc2964.html,Yes
+,2939, Procedures and IANA Guidelines for Definition of New DHCP Options and Message Types ,Best Current Practice,txt,rfcs\txt\rfc2939.txt,Yes
+,2939, Procedures and IANA Guidelines for Definition of New DHCP Options and Message Types ,Best Current Practice,pdf,rfcs\pdf\rfc2939.pdf,Yes
+,2939, Procedures and IANA Guidelines for Definition of New DHCP Options and Message Types ,Best Current Practice,html,rfcs\html\rfc2939.html,Yes
+,2929, Domain Name System (DNS) IANA Considerations ,Best Current Practice,txt,rfcs\txt\rfc2929.txt,Yes
+,2929, Domain Name System (DNS) IANA Considerations ,Best Current Practice,pdf,rfcs\pdf\rfc2929.pdf,Yes
+,2929, Domain Name System (DNS) IANA Considerations ,Best Current Practice,html,rfcs\html\rfc2929.html,Yes
+,2914,Congestion Control Principles ,Best Current Practice,txt,rfcs\txt\rfc2914.txt,Yes
+,2914,Congestion Control Principles ,Best Current Practice,pdf,rfcs\pdf\rfc2914.pdf,Yes
+,2914,Congestion Control Principles ,Best Current Practice,html,rfcs\html\rfc2914.html,Yes
+,2870, Root Name Server Operational Requirements ,Best Current Practice,txt,rfcs\txt\rfc2870.txt,Yes
+,2870, Root Name Server Operational Requirements ,Best Current Practice,pdf,rfcs\pdf\rfc2870.pdf,Yes
+,2870, Root Name Server Operational Requirements ,Best Current Practice,html,rfcs\html\rfc2870.html,Yes
+,2850, Charter of the Internet Architecture Board (IAB) ,Best Current Practice,txt,rfcs\txt\rfc2850.txt,Yes
+,2850, Charter of the Internet Architecture Board (IAB) ,Best Current Practice,pdf,rfcs\pdf\rfc2850.pdf,Yes
+,2850, Charter of the Internet Architecture Board (IAB) ,Best Current Practice,html,rfcs\html\rfc2850.html,Yes
+,2827, Network Ingress Filtering: Defeating Denial of Service Attacks which employ IP Source Address Spoofing ,Best Current Practice,txt,rfcs\txt\rfc2827.txt,Yes
+,2827, Network Ingress Filtering: Defeating Denial of Service Attacks which employ IP Source Address Spoofing ,Best Current Practice,pdf,rfcs\pdf\rfc2827.pdf,Yes
+,2827, Network Ingress Filtering: Defeating Denial of Service Attacks which employ IP Source Address Spoofing ,Best Current Practice,html,rfcs\html\rfc2827.html,Yes
+,2780, IANA Allocation Guidelines For Values In the Internet Protocol and Related Headers ,Best Current Practice,txt,rfcs\txt\rfc2780.txt,Yes
+,2780, IANA Allocation Guidelines For Values In the Internet Protocol and Related Headers ,Best Current Practice,pdf,rfcs\pdf\rfc2780.pdf,Yes
+,2780, IANA Allocation Guidelines For Values In the Internet Protocol and Related Headers ,Best Current Practice,html,rfcs\html\rfc2780.html,Yes
+,2736, Guidelines for Writers of RTP Payload Format Specifications ,Best Current Practice,txt,rfcs\txt\rfc2736.txt,Yes
+,2736, Guidelines for Writers of RTP Payload Format Specifications ,Best Current Practice,pdf,rfcs\pdf\rfc2736.pdf,Yes
+,2736, Guidelines for Writers of RTP Payload Format Specifications ,Best Current Practice,html,rfcs\html\rfc2736.html,Yes
+,2727," IAB and IESG Selection, Confirmation, and Recall Process: Operation of the Nominating and Recall Committees ",Best Current Practice,txt,rfcs\txt\rfc2727.txt,Yes
+,2727," IAB and IESG Selection, Confirmation, and Recall Process: Operation of the Nominating and Recall Committees ",Best Current Practice,pdf,rfcs\pdf\rfc2727.pdf,Yes
+,2727," IAB and IESG Selection, Confirmation, and Recall Process: Operation of the Nominating and Recall Committees ",Best Current Practice,html,rfcs\html\rfc2727.html,Yes
+,2717, Registration Procedures for URL Scheme Names ,Best Current Practice,txt,rfcs\txt\rfc2717.txt,Yes
+,2717, Registration Procedures for URL Scheme Names ,Best Current Practice,pdf,rfcs\pdf\rfc2717.pdf,Yes
+,2717, Registration Procedures for URL Scheme Names ,Best Current Practice,html,rfcs\html\rfc2717.html,Yes
+,2644, Changing the Default for Directed Broadcasts in Routers ,Best Current Practice,txt,rfcs\txt\rfc2644.txt,Yes
+,2644, Changing the Default for Directed Broadcasts in Routers ,Best Current Practice,pdf,rfcs\pdf\rfc2644.pdf,Yes
+,2644, Changing the Default for Directed Broadcasts in Routers ,Best Current Practice,html,rfcs\html\rfc2644.html,Yes
+,2611, URN Namespace Definition Mechanisms ,Best Current Practice,txt,rfcs\txt\rfc2611.txt,Yes
+,2611, URN Namespace Definition Mechanisms ,Best Current Practice,pdf,rfcs\pdf\rfc2611.pdf,Yes
+,2611, URN Namespace Definition Mechanisms ,Best Current Practice,html,rfcs\html\rfc2611.html,Yes
+,2606, Reserved Top Level DNS Names ,Best Current Practice,txt,rfcs\txt\rfc2606.txt,Yes
+,2606, Reserved Top Level DNS Names ,Best Current Practice,pdf,rfcs\pdf\rfc2606.pdf,Yes
+,2606, Reserved Top Level DNS Names ,Best Current Practice,html,rfcs\html\rfc2606.html,Yes
+,2506, Media Feature Tag Registration Procedure ,Best Current Practice,txt,rfcs\txt\rfc2506.txt,Yes
+,2506, Media Feature Tag Registration Procedure ,Best Current Practice,pdf,rfcs\pdf\rfc2506.pdf,Yes
+,2506, Media Feature Tag Registration Procedure ,Best Current Practice,html,rfcs\html\rfc2506.html,Yes
+,2505, Anti-Spam Recommendations for SMTP MTAs ,Best Current Practice,txt,rfcs\txt\rfc2505.txt,Yes
+,2505, Anti-Spam Recommendations for SMTP MTAs ,Best Current Practice,pdf,rfcs\pdf\rfc2505.pdf,Yes
+,2505, Anti-Spam Recommendations for SMTP MTAs ,Best Current Practice,html,rfcs\html\rfc2505.html,Yes
+,2489, Procedure for Defining New DHCP Options ,Best Current Practice,txt,rfcs\txt\rfc2489.txt,Yes
+,2489, Procedure for Defining New DHCP Options ,Best Current Practice,pdf,rfcs\pdf\rfc2489.pdf,Yes
+,2489, Procedure for Defining New DHCP Options ,Best Current Practice,html,rfcs\html\rfc2489.html,Yes
+,2488, Enhancing TCP Over Satellite Channels using Standard Mechanisms ,Best Current Practice,txt,rfcs\txt\rfc2488.txt,Yes
+,2488, Enhancing TCP Over Satellite Channels using Standard Mechanisms ,Best Current Practice,pdf,rfcs\pdf\rfc2488.pdf,Yes
+,2488, Enhancing TCP Over Satellite Channels using Standard Mechanisms ,Best Current Practice,html,rfcs\html\rfc2488.html,Yes
+,2438, Advancement of MIB specifications on the IETF Standards Track ,Best Current Practice,txt,rfcs\txt\rfc2438.txt,Yes
+,2438, Advancement of MIB specifications on the IETF Standards Track ,Best Current Practice,pdf,rfcs\pdf\rfc2438.pdf,Yes
+,2438, Advancement of MIB specifications on the IETF Standards Track ,Best Current Practice,html,rfcs\html\rfc2438.html,Yes
+,2434, Guidelines for Writing an IANA Considerations Section in RFCs ,Best Current Practice,txt,rfcs\txt\rfc2434.txt,Yes
+,2434, Guidelines for Writing an IANA Considerations Section in RFCs ,Best Current Practice,pdf,rfcs\pdf\rfc2434.pdf,Yes
+,2434, Guidelines for Writing an IANA Considerations Section in RFCs ,Best Current Practice,html,rfcs\html\rfc2434.html,Yes
+,2418,IETF Working Group Guidelines and Procedures ,Best Current Practice,txt,rfcs\txt\rfc2418.txt,Yes
+,2418,IETF Working Group Guidelines and Procedures ,Best Current Practice,pdf,rfcs\pdf\rfc2418.pdf,Yes
+,2418,IETF Working Group Guidelines and Procedures ,Best Current Practice,html,rfcs\html\rfc2418.html,Yes
+,2379, RSVP over ATM Implementation Guidelines ,Best Current Practice,txt,rfcs\txt\rfc2379.txt,Yes
+,2379, RSVP over ATM Implementation Guidelines ,Best Current Practice,pdf,rfcs\pdf\rfc2379.pdf,Yes
+,2379, RSVP over ATM Implementation Guidelines ,Best Current Practice,html,rfcs\html\rfc2379.html,Yes
+,2365, Administratively Scoped IP Multicast ,Best Current Practice,txt,rfcs\txt\rfc2365.txt,Yes
+,2365, Administratively Scoped IP Multicast ,Best Current Practice,pdf,rfcs\pdf\rfc2365.pdf,Yes
+,2365, Administratively Scoped IP Multicast ,Best Current Practice,html,rfcs\html\rfc2365.html,Yes
+,2360, Guide for Internet Standards Writers ,Best Current Practice,txt,rfcs\txt\rfc2360.txt,Yes
+,2360, Guide for Internet Standards Writers ,Best Current Practice,pdf,rfcs\pdf\rfc2360.pdf,Yes
+,2360, Guide for Internet Standards Writers ,Best Current Practice,html,rfcs\html\rfc2360.html,Yes
+,2350, Expectations for Computer Security Incident Response ,Best Current Practice,txt,rfcs\txt\rfc2350.txt,Yes
+,2350, Expectations for Computer Security Incident Response ,Best Current Practice,pdf,rfcs\pdf\rfc2350.pdf,Yes
+,2350, Expectations for Computer Security Incident Response ,Best Current Practice,html,rfcs\html\rfc2350.html,Yes
+,2317, Classless IN-ADDR.ARPA delegation ,Best Current Practice,txt,rfcs\txt\rfc2317.txt,Yes
+,2317, Classless IN-ADDR.ARPA delegation ,Best Current Practice,pdf,rfcs\pdf\rfc2317.pdf,Yes
+,2317, Classless IN-ADDR.ARPA delegation ,Best Current Practice,html,rfcs\html\rfc2317.html,Yes
+,2277, IETF Policy on Character Sets and Languages ,Best Current Practice,txt,rfcs\txt\rfc2277.txt,Yes
+,2277, IETF Policy on Character Sets and Languages ,Best Current Practice,pdf,rfcs\pdf\rfc2277.pdf,Yes
+,2277, IETF Policy on Character Sets and Languages ,Best Current Practice,html,rfcs\html\rfc2277.html,Yes
+,2219, Use of DNS Aliases for Network Services ,Best Current Practice,txt,rfcs\txt\rfc2219.txt,Yes
+,2219, Use of DNS Aliases for Network Services ,Best Current Practice,pdf,rfcs\pdf\rfc2219.pdf,Yes
+,2219, Use of DNS Aliases for Network Services ,Best Current Practice,html,rfcs\html\rfc2219.html,Yes
+,2182, Selection and Operation of Secondary DNS Servers ,Best Current Practice,txt,rfcs\txt\rfc2182.txt,Yes
+,2182, Selection and Operation of Secondary DNS Servers ,Best Current Practice,pdf,rfcs\pdf\rfc2182.pdf,Yes
+,2182, Selection and Operation of Secondary DNS Servers ,Best Current Practice,html,rfcs\html\rfc2182.html,Yes
+,2148, Deployment of the Internet White Pages Service ,Best Current Practice,txt,rfcs\txt\rfc2148.txt,Yes
+,2148, Deployment of the Internet White Pages Service ,Best Current Practice,pdf,rfcs\pdf\rfc2148.pdf,Yes
+,2148, Deployment of the Internet White Pages Service ,Best Current Practice,html,rfcs\html\rfc2148.html,Yes
+,2119,Key words for use in RFCs to Indicate Requirement Levels ,Best Current Practice,txt,rfcs\txt\rfc2119.txt,Yes
+,2119,Key words for use in RFCs to Indicate Requirement Levels ,Best Current Practice,pdf,rfcs\pdf\rfc2119.pdf,Yes
+,2119,Key words for use in RFCs to Indicate Requirement Levels ,Best Current Practice,html,rfcs\html\rfc2119.html,Yes
+,2048, Multipurpose Internet Mail Extensions (MIME) Part Four: Registration Procedures ,Best Current Practice,txt,rfcs\txt\rfc2048.txt,Yes
+,2048, Multipurpose Internet Mail Extensions (MIME) Part Four: Registration Procedures ,Best Current Practice,pdf,rfcs\pdf\rfc2048.pdf,Yes
+,2048, Multipurpose Internet Mail Extensions (MIME) Part Four: Registration Procedures ,Best Current Practice,html,rfcs\html\rfc2048.html,Yes
+,2028,The Organizations Involved in the IETF Standards Process ,Best Current Practice,txt,rfcs\txt\rfc2028.txt,Yes
+,2028,The Organizations Involved in the IETF Standards Process ,Best Current Practice,pdf,rfcs\pdf\rfc2028.pdf,Yes
+,2028,The Organizations Involved in the IETF Standards Process ,Best Current Practice,html,rfcs\html\rfc2028.html,Yes
+,2026, The Internet Standards Process -- Revision 3 ,Best Current Practice,txt,rfcs\txt\rfc2026.txt,Yes
+,2026, The Internet Standards Process -- Revision 3 ,Best Current Practice,pdf,rfcs\pdf\rfc2026.pdf,Yes
+,2026, The Internet Standards Process -- Revision 3 ,Best Current Practice,html,rfcs\html\rfc2026.html,Yes
+,2014, IRTF Research Group Guidelines and Procedures ,Best Current Practice,txt,rfcs\txt\rfc2014.txt,Yes
+,2014, IRTF Research Group Guidelines and Procedures ,Best Current Practice,pdf,rfcs\pdf\rfc2014.pdf,Yes
+,2014, IRTF Research Group Guidelines and Procedures ,Best Current Practice,html,rfcs\html\rfc2014.html,Yes
+,2008, Implications of Various Address Allocation Policies for Internet Routing ,Best Current Practice,txt,rfcs\txt\rfc2008.txt,Yes
+,2008, Implications of Various Address Allocation Policies for Internet Routing ,Best Current Practice,pdf,rfcs\pdf\rfc2008.pdf,Yes
+,2008, Implications of Various Address Allocation Policies for Internet Routing ,Best Current Practice,html,rfcs\html\rfc2008.html,Yes
+,1984,IAB and IESG Statement on Cryptographic Technology and the Internet ,Best Current Practice,txt,rfcs\txt\rfc1984.txt,Yes
+,1984,IAB and IESG Statement on Cryptographic Technology and the Internet ,Best Current Practice,pdf,rfcs\pdf\rfc1984.pdf,Yes
+,1984,IAB and IESG Statement on Cryptographic Technology and the Internet ,Best Current Practice,html,rfcs\html\rfc1984.html,Yes
+,1930," Guidelines for creation, selection, and registration of an Autonomous System (AS) ",Best Current Practice,txt,rfcs\txt\rfc1930.txt,Yes
+,1930," Guidelines for creation, selection, and registration of an Autonomous System (AS) ",Best Current Practice,pdf,rfcs\pdf\rfc1930.pdf,Yes
+,1930," Guidelines for creation, selection, and registration of an Autonomous System (AS) ",Best Current Practice,html,rfcs\html\rfc1930.html,Yes
+,1918, Address Allocation for Private Internets ,Best Current Practice,txt,rfcs\txt\rfc1918.txt,Yes
+,1918, Address Allocation for Private Internets ,Best Current Practice,pdf,rfcs\pdf\rfc1918.pdf,Yes
+,1918, Address Allocation for Private Internets ,Best Current Practice,html,rfcs\html\rfc1918.html,Yes
+,1917, An Appeal to the Internet Community to Return Unused IP Networks (Prefixes) to the IANA ,Best Current Practice,txt,rfcs\txt\rfc1917.txt,Yes
+,1917, An Appeal to the Internet Community to Return Unused IP Networks (Prefixes) to the IANA ,Best Current Practice,pdf,rfcs\pdf\rfc1917.pdf,Yes
+,1917, An Appeal to the Internet Community to Return Unused IP Networks (Prefixes) to the IANA ,Best Current Practice,html,rfcs\html\rfc1917.html,Yes
+,1915, Variance for The PPP Compression Control Protocol and The PPP Encryption Control Protocol ,Best Current Practice,txt,rfcs\txt\rfc1915.txt,Yes
+,1915, Variance for The PPP Compression Control Protocol and The PPP Encryption Control Protocol ,Best Current Practice,pdf,rfcs\pdf\rfc1915.pdf,Yes
+,1915, Variance for The PPP Compression Control Protocol and The PPP Encryption Control Protocol ,Best Current Practice,html,rfcs\html\rfc1915.html,Yes
